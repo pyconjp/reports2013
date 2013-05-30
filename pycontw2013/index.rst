@@ -24,3 +24,4 @@ Contents:
 - `Flickr: PyCon Taiwan 2013 Japan team <http://www.flickr.com/groups/pycontw2013-jpteam/>`_
 - `2013/05/25-26 PyConTW 2013 - a set on Flickr <http://www.flickr.com/photos/shimizukawa/sets/72157633705422264/>`_ @shimizukawa
 - `PyCon Taiwan 2013 - a set on Flickr <http://www.flickr.com/photos/takanory/sets/72157633751281349/>`_ @takanory
+- `20130525PyConTW - a set on Flickr <http://www.flickr.com/photos/vkgtaro/sets/72157633788945872/>`_ @vkgtaro
