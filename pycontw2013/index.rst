@@ -14,6 +14,7 @@ Contents:
    day0
    day1
    day2
+   conclusion
    author
 
 写真
