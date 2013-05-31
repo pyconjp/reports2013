@@ -1,0 +1,118 @@
+500 people
+(Pycon JP 2012:500 people)
+
+Keynote
+@dabeaz
+
+Making with python 3
+data hacking City of Cicago
+ipython notebook
+
+
+python cookbook
+python esseinsioal reference
+
+python3でExceptionがもっと細かく表示されるようになった
+import hooks module finder とか入れて何をimportしてるかなどわかる
+
+
+Python + NoSQL in Animations
+drakeguan
+
+Digimax Inc
+100 employees
+70:10 engenieers
+
+PyGTK, PyQT or WxPython
+
+
+写真1枚載せる
+文字は少なめ。読ませない
+
+
+DRACULA vcs for artists GUI + multithreading
+
+Maya
+
+Logging: DRACULA's User behavior The most clicked buttons
+CouchDB
+crash rate, how many people works in weekend, heartbeat
+mongoDB
+
+
+io Bottle Lib?
+
+Getting Python To Learn From Parts of your data
+Site revenues
+
+Model Selection and Cross Validation
+Dr. Ami Tavory
+
+Fook's law F= kx
+scipy.polyfit
+sklearn.cross_validation
+
+Trimmed Mean(外れ値除外した平均)
+
+Bootstrapping
+scikits.bootstrap.bootstrap
+
+Missing Data?
+ < GB
+
+http://python.matrix.jp/pages/modules/myhdl.html
+
+Photo Organizing software
+PMM: /trunc/Objects/obmalloc.c
+Page bank?
+
+Pipeline
+   ETL
+
+Coding guide
+live coding
+  vimflake8
+
+PyTesser
+  image recognition の ブリッジ
+
+2nd day
+
+Guest speach
+Pythonの技っぽい話
+設計思想？
+・アルゴリズム
+・Dice PMF = Probability Mass Function
+
+Map from from each possible function
+legacy code
+sublime2
+  Python-style正規表現とPython plugin APIが便利。
+Security of Django: Best!
+    
+
+David Cramer Keynote: Building to Scale
+   Disqus
+   sentry / SQL
+   Compl
+   redis, cassandra, riak ,mongo?
+   Redis is useful counters
+   Activity Stream
+
+  Rabbit MQ Redis
+     Fanout
+  Object Cache
+    Memcache
+   Takeaway
+
+Bigdata analysis 
+   Pandas, Solr, Scikit, Statsmodel, Matplotlib, Solr, NetworkX
+   Why Python
+   Datamining
+    tfidf - 1~3gram, OneClassSVM linear
+   Pandas : Data Structure
+　個別Q&A:
+   Hadoop何につかってるの？ -> あまり使ってない。テキスト認識では複雑な組み合わせがあるので、
+　Hadoop使いにくい
+   なんでMongo? Transaction弱くね？
+　今回はSensitiveじゃないので多少のロスは気にしない。あとは使いやすいから使う。
