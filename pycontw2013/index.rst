@@ -26,3 +26,10 @@ Contents:
 - `2013/05/25-26 PyConTW 2013 - a set on Flickr <http://www.flickr.com/photos/shimizukawa/sets/72157633705422264/>`_ @shimizukawa
 - `PyCon Taiwan 2013 - a set on Flickr <http://www.flickr.com/photos/takanory/sets/72157633751281349/>`_ @takanory
 - `20130525PyConTW - a set on Flickr <http://www.flickr.com/photos/vkgtaro/sets/72157633788945872/>`_ @vkgtaro
+
+前回レポート
+------------
+参考にどうぞ。
+
+- `PyCon JP レポート番外編　――PyCon Taiwan 出張 （1/6）：CodeZine <http://codezine.jp/article/detail/6641>`_
+- `「PyCon Taiwan 2012」参加レポート：レポート｜gihyo.jp … 技術評論社 <http://gihyo.jp/news/report/01/pycon-taiwan2012>`_
