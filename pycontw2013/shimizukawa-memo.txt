@@ -1,34 +1,4 @@
-5/24
-
-5/25 9:00 会場着
-
-名札がシンプルになった。
-事前に登録番号入りのリマインダメールもらってたので迷わず。
-昨年のような登録番号の掲示はしてなかった。
-
-5/25 9:10 オープニング
-
-5/25 9:20 キーノート１ (主会場）
-
-5/25 10:40 Sphinxの発表(会議室２ shimizukawa)
-
-部屋の参加者 -> 40人くらい
-Sphinx使ってる人！ -> 5人
-Sphinx知ってる人！ -> 30人くらい
-
-Tシャツプレゼントしました。SとXXLなので欲しい人いなかった.. 
-
-
-5/25 11:10
-
-Tシャツをプレゼントした方と、Sphinxの中国語PDF出力の話を廊下でやってました。
-
-
-
 5/25 11:40
-
-疲れてぼーっとしてました。
-5/25 12:10 ランチ
 
 ランチの受取チェックが名札裏（無地）にペンで印つけるだけだった。
 シンプル。去年は引換券が名札ケースに入っていた。
@@ -65,52 +35,10 @@ Future:
 Questions?
 発表中は反応薄かったけど、Question?には数人の手が挙がった。PyConTW座長のYung-Yu Chenも質問していた。質問3名。
 
-休憩
-
-おしらせ レセプションはタダだからライトニングトークのあとにみんな参加してね
-
-
-5/25 14:30 「Python memory management & Impact to memory-hungry application」（会議室１）
-連続したメモリをOSで確保できなくても巨大なメモリ空間を使えるようにするPyObjectのメモリバンク実装について（だったと思う）。PyBank。
-
-
-5/25 15:00 うろうろ
-
-
-[15:10:49] しみずかわ: Catchball21の人達と受付で遭遇。
-[15:11:03] しみずかわ: LTエントリーシート（模造紙）が受付近くの壁に貼ってあった
-[15:11:22] しみずかわ: LT参加通ったかどうか心配だったらしい＞CB21
-[15:12:19] しみずかわ: LT参加シート（模造紙）9割くらい空白だったよ
-
-
-5/25 15:30 「Praat-py: The Force Unleashed!」（会議室２）
-
-
-5/25 16:10 閃電秀（会議室）
-
-
-1st
-     Introduction of PyCon APAC
-     https://twitter.com/takanory/status/338215539484790785
-     http://www.slideshare.net/takanory/pyconapac-0525
-     http://youtu.be/8lSMCSd8oCo 
-
-2nd
-      CatchBall21 LightningTalk in PyConTW 2013      http://youtu.be/_RxIrOkByTQ 
-      Introduced CatchBall21 comany and promise with Yung-Yu Chen.
-     
-あとはほぼ中国語でLTだったので分からず・・
-1つ、PyTesserというOCRエンジンのPythonブリッジが気になった。
-https://pypi.python.org/pypi/PyTesser ver 0.0.1
-PyTesser uses the Tesseract OCR engine
-PyTesserのバージョンは若すぎるけど、ブリッジしてるだけなら精度はEngine側次第かな
 
 
 
 
-5/25 17:10 晩宴（大ホール前）+ BoF
-
-doctest + Sphinx でLTしたJennyをmoskyに紹介してもらい、Sphinx Tシャツ(S)をプレゼントしました。
 
 
 5/26 11:30 駭客看 Django by Orange Tsai 

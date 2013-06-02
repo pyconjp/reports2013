@@ -5,31 +5,145 @@
 ホテル(台北市内)からの交通手段、金額
 ====================================
 
+
 受付
 ====
+
 - ノベルティー: 紙袋、Tシャツ(普段着にできそう)、名札(シンプル)、プログラム(シンプル)、朝食(2時間以内)
+- 名札がシンプルになった。
+- 2日前に登録番号入りのリマインダメールもらってたので迷わず。
+- 昨年のような登録番号の掲示はしてなかった。
 
 オープニング・キーノート(たかのり)
 ==================================
 
+
+.. figure:: /_static/day1-shimizukawa-at-keynote1-time.jpg
+
+   キーノート後の発表に向けて資料最終調整中の清水川
+
 Sphinx発表(清水川)
 ==================
+
+.. todo:: 写真多い？
+
+.. figure:: /_static/day1-shimizukawa-sphinx.jpg
+
+- 部屋の参加者 -> 40人くらい
+- Sphinx使ってる人！ -> 5人
+- Sphinx知ってる人！ -> 30人くらい
+
+- ちょっとしたネタを資料に仕込んで置いたところで笑いが取れたので安心した。
+- 質疑応答ではイッパイイッパイになってしまって英語での質問の内容がうまく理解できずに司会者に助けてもらった。次の機会までにヒアリングをもうちょっと練習しておきたい。
+
+.. figure:: /_static/day1-shimizukawa-sphinx-atendees.jpg
+
+- Tシャツプレゼントしました。SとXXLなので欲しい人いなかった.. XXLだけもらい手が一人いて良かった。次の機会があったらちゃんとM/Lサイズを用意して置こうと思った。
+
+.. figure:: /_static/day1-shimizukawa-sphinx-tshirt-present.jpg
+
+- Tシャツをプレゼントした方と、Sphinxの中国語PDF出力の話を廊下でやってました。中国語の文字をlatexpdfで出力しようとすると問題があって、日本語の場合はどうやっているのか？ -> 日本語向けに異なる処理が入っている、いろいろな言語に対応出来るようにするにはlatexとマルチバイト文字両方への理解が必要なため非マルチバイト文字圏の開発者だけでは簡単にはいかないだろう、という話をした。
+
+- その後昼まで疲れてぼーっとしてました。
+
+
 
 なにか気になったセッション(清水川)
 ==================================
 
+- 5/25 14:30 「Python memory management & Impact to memory-hungry application」（会議室１）
+  連続したメモリをOSで確保できなくても巨大なメモリ空間を使えるようにするPyObjectのメモリバンク実装について（だったと思う）。PyBank。
+
+
+- 5/25 15:30 「Praat-py: The Force Unleashed!」（会議室２）
+  人間は年齢とともに高周波数の音を聞き分けにくくなっていく。
+  人間が感じている音の違いをコンピューターで分析するツール「Praat」は
+  GUI操作をスクリプト保存して繰り返し実行などができるが、文法がわかりにくい。
+  これをPythonスクリプトで扱えるようにする話。
+
 
 LT(たかのり、清水川)
 ====================
-- CB21のも紹介
-- LT当日エントリ模造紙
+1日目の16時過ぎからはライトニングトーク(LT, 中国語では **閃電秀**)です。
+事前にLTの申し込み登録がありましたが、当日も参加募集を募っており、15ほどのLT発表が行われました。
 
-  - 何人かエントリーしていた(-> 1.5hもLT時間あった)
+.. figure:: /_static/day1-lt-recruitment.jpg
+
+   1日目午後、LT募集中
+
+
+LTの最初の2つが日本人参加者の発表でした。
+
+まず1人目が、鈴木たかのりさんの ``Introduction of PyCon APAC`` です。
+LT1人目ということもあり、本人はかなり緊張していたとのことですが、発表を見ていた私としては非常に落ち着いて、しっかりと笑いを取りつつ今年の秋に行われる `PyCon APAC 2013`_ の紹介をしていました。発表の内容としては、PyCon APAC の紹介をしていたハズなのですが途中から……詳しくは当日の資料と動画を公開していますので、是非ご覧下さい。
+
+.. figure:: /_static/day1-lt-takanory.jpg
+
+   鈴木たかのりさんのLT発表
+
+:資料: http://www.slideshare.net/takanory/pyconapac-0525
+:動画: http://youtu.be/8lSMCSd8oCo
+
+.. _`PyCon APAC 2013`: http://apac-2013.pycon.jp/
+
+LT2人目は、日本からPyConTWのスポンサーとして参加している `(株)Catchball21`_ さんです。
+
+* Introduced CatchBall21 comany and promise with Yung-Yu Chen.
+
+.. todo:: もうちょっと内容紹介する
+
+.. todo:: 資料あればURLを教えてもらう
+
+.. 動画は http://youtu.be/_RxIrOkByTQ だが途中からなので掲載しない方がいいかな
+
+
+.. _`(株)Catchball21`: https://www.cb21.co.jp/
+
+
+3つめ以降のLTは中国語が多かったのですが、いくつか面白かったものを紹介します。
+
+.. todo:: LTいくつか紹介
+
+   * PyTesserというOCRエンジンのPythonブリッジ
+     https://pypi.python.org/pypi/PyTesser ver 0.0.1
+     PyTesserのバージョンは若すぎるけど、ブリッジしてるだけなら精度は
+     Engine側次第かな
+
+   * jenny(梁睿珊)のdoctest+sphinx
+     day1-lt-jenny.jpg
+     day1-lt-jenny-doctest.jpg
+     http://www.slideshare.net/juishanliang/py-contw2013-doctest
+
+
+.. 以下は予定していたLT
+..
+.. - Plone: Powerful Python based Content Management System - Takanori Suzuki
+.. - Introduction to PyCon APAC 2013 in Japan - Takanori Suzuki
+.. - WeasyPrint − bring the web to PDF and paper - Simon Sapin
+.. - 用 Python 讓 Raspberry Pi 和臉部辨識來個小小相遇 (暫定) - 王興謙
+.. - Bottle vs. Startup （微議程之 - 微框架 vs. 微創業） - 曾君宇
+.. - Modularize your Django settings - 潘韋成
+.. - Building a fast digit recognition solution with Python - 許家誠
+.. - 3 個不同的 Python 組織文化 - Keith Yang
+.. - 真蝦! 意外接到的 case - 陳炯廷
+.. - Violent Python: Python in the dark side. - xatierlike Lee
+.. - Dot.py - 陳建勳
+.. - The Zen of Language Choice - TsungWei Hu
+.. - doctest: 註解、測試一次搞定 - 梁睿珊
+
 
 レセプション、BoF(清水川)
 =========================
-- Tシャツあげた
-- PyLadies
+17時頃から予定していたレセプション（晩宴）はLTが伸びたため17時半過ぎから始まりました。レセプション会場がメインホール前のフロアで無料だったこともあり、自然に人が集まって自然に始まった感じでした。
+
+.. todo:: レセプションの写真
+
+LTで doctest + Sphinx の発表を行ったJenny(梁睿珊)を、昨年のPyConTWで知り合ったmoskyに紹介してもらいました。私(清水川)の発表の時間には友人の発表を聞いていたということでしたが、Sphinxにはとても関心があるとのことでした。Sphinx Tシャツ(S)をプレゼントしたところ非常に喜んでもらえました。今年秋のPyCon APAC 2013にも誘ったのですが、ちょうどその時期に残念ながら旅行に出かけているため参加出来ないそうです。残念ですね。
+
+
+.. todo:: BoFは並行でやってた
+
+.. todo:: PyLadiesについて
 
 夜市(たかのり)
 ==============
