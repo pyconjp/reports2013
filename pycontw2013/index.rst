@@ -33,3 +33,10 @@ Contents:
 
 - `PyCon JP レポート番外編　――PyCon Taiwan 出張 （1/6）：CodeZine <http://codezine.jp/article/detail/6641>`_
 - `「PyCon Taiwan 2012」参加レポート：レポート｜gihyo.jp … 技術評論社 <http://gihyo.jp/news/report/01/pycon-taiwan2012>`_
+
+
+TODOリスト
+-------------
+
+.. todolist::
+
