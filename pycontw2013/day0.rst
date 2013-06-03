@@ -36,13 +36,13 @@ PyCon Taiwan 2012の開催概要は以下のとおりです。
      - PyCon APAC 2013 会計、セッション発表
    * - 鈴木 たかのり (`@takanory <http://twitter.com/takanory>`_)
      - PyCon APAC 2013 事務局、LT発表
-   * - 増田 泰(`@whosaysni <https://twitter.com/whosaysni>`_)
+   * - 増田 泰(`@whosaysni <http://twitter.com/whosaysni>`_)
      - 一般社団法人PyCon JP理事
-   * - 宵 勇樹(`@showyou <https://twitter.com/showyou>`_)
+   * - 宵 勇樹(`@showyou <http://twitter.com/showyou>`_)
+     - 
+   * - 小松 大輔(`@vkgtaro <http://twitter.com/vkgtaro>`_)
      - Catchball21
-   * - 小松 大輔
-     - Catchball21
-   * - 森本 真一
+   * - 森本 真一(`@shnmorimoto <http://twitter.com/shnmorimoto>`_)
      - Catchball21、LT発表
    * - 梅田 たけふみ
      - Catchball21
