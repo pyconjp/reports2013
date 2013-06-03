@@ -2,11 +2,59 @@
  Day 0
 =======
 
-事前情報
-========
+PyCon JP の鈴木たかのりです。
 
-参加メンバー(たかのり)
-----------------------
+去る2013年5月25(土)、26日(日)に台湾の台北にて `PyCon Taiwan 2013 <http://tw.pycon.org/2013/ja/>`_ が開催されました。
+私と清水川さんは `PyCon APAC 2013 <http://apac-2013.pycon.jp/>`_ のスタッフを代表してこのイベントに参加し、イベントの宣伝を行ったり海外の Pythonista (Pythonプログラミング言語ユーザー)と交流を行うなどしてきました。
+
+ここでは、その PyCon Taiwan 2013 の参加レポートをお届けします。
+
+PyCon Taiwan とは
+-----------------
+PyCon(パイコン)は Python Conference の略で、Python プログラミングに関するカンファレンスです。
+PyCon は `世界中で開催 <http://www.pycon.org/>`_ されており、
+日本でも昨年は `PyCon JP 2012 <http://2012.pycon.jp/>`_ が開催されました。
+
+PyCon Taiwan はその名の通り、台湾で開催されている PyCon で、2012 に第1回が開催されて、そのときの様子は
+`PyCon JP レポート番外編　――PyCon Taiwan 出張 （1/6）：CodeZine <http://codezine.jp/article/detail/6641>`_ でレポートされています。
+
+PyCon Taiwan 2012の開催概要は以下のとおりです。
+
+:サイト: http://tw.pycon.org/2013/ (中、日、英あり)
+:期間: 2013年5月25日、26日の2日間
+:構成: 3つの基調講演を含む3トラック(一部英語セッション)
+       (`プログラム / PyCon Taiwan 2013 <http://tw.pycon.org/2013/ja/program/>`_)
+:参加費用: Early Bird(早期割引)1,900TWD 通常2,500TWD
+:会場: `Academia Sinica <http://www.sinica.edu.tw/main_e.shtml>`_
+:参加人数: 約400名
+
+今回は日本からは8名(+2名)の日本人が参加しました。
+
+.. list-table::
+
+   * - 清水川 貴之 (`@shimizukawa <http://twitter.com/shimizukawa>`_)
+     - PyCon APAC 2013 会計、セッション発表
+   * - 鈴木 たかのり (`@takanory <http://twitter.com/takanory>`_)
+     - PyCon APAC 2013 事務局、LT発表
+   * - 増田 泰(`@whosaysni <https://twitter.com/whosaysni>`_)
+     - 一般社団法人PyCon JP理事
+   * - 宵 勇樹(`@showyou <https://twitter.com/showyou>`_)
+     - Catchball21
+   * - 小松 大輔
+     - Catchball21
+   * - 森本 真一
+     - Catchball21、LT発表
+   * - 梅田 たけふみ
+     - Catchball21
+   * - 村岡 ゆうすけ(`@jbking <http://twitter.com/jbking>`_)
+     - グルメ、観光担当。PyCon Taiwan には参加せず
+   * - 文殊堂(`@monjudoh <http://twitter.com/monjudoh>`_)
+     - 同上
+
+.. figure:: /_static/japan-team.jpg
+   :width: 400
+
+   PyCon Taiwan 2013 参加メンバー(右端は Chairperson の Yung-Yu Chen氏)
 
 PyCon APAC宣伝
 --------------
