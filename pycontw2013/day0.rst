@@ -28,7 +28,7 @@ PyCon Taiwan 2012の開催概要は以下のとおりです。
 :会場: `Academia Sinica <http://www.sinica.edu.tw/main_e.shtml>`_
 :参加人数: 約400名
 
-今回は日本からは8名(+2名)の日本人が参加しました。
+今回は日本からは8名(+2名)が日本から参加しました。
 
 .. list-table::
 
@@ -36,19 +36,19 @@ PyCon Taiwan 2012の開催概要は以下のとおりです。
      - PyCon APAC 2013 会計、セッション発表
    * - 鈴木 たかのり (`@takanory <http://twitter.com/takanory>`_)
      - PyCon APAC 2013 事務局、LT発表
-   * - 増田 泰(`@whosaysni <http://twitter.com/whosaysni>`_)
+   * - 増田 泰 (`@whosaysni <http://twitter.com/whosaysni>`_)
      - 一般社団法人PyCon JP理事
-   * - 宵 勇樹(`@showyou <http://twitter.com/showyou>`_)
+   * - 宵 勇樹 (`@showyou <http://twitter.com/showyou>`_)
      - PyCon JP 2012 ボランティア
-   * - 小松 大輔(`@vkgtaro <http://twitter.com/vkgtaro>`_)
+   * - 小松 大輔 (`@vkgtaro <http://twitter.com/vkgtaro>`_)
      - Catchball21
-   * - 森本 真一(`@shnmorimoto <http://twitter.com/shnmorimoto>`_)
+   * - 森本 真一 (`@shnmorimoto <http://twitter.com/shnmorimoto>`_)
      - Catchball21、LT発表
-   * - 梅田 たけふみ
-     - Catchball21(`umeda.takefumi <https://www.facebook.com/umeda.takefumi>`_)
-   * - 村岡 ゆうすけ(`@jbking <http://twitter.com/jbking>`_)
+   * - 梅田 たけふみ (`umeda.takefumi <https://www.facebook.com/umeda.takefumi>`_)
+     - Catchball21
+   * - 村岡 ゆうすけ (`@jbking <http://twitter.com/jbking>`_)
      - グルメ、観光担当、PyCon Taiwan には参加せず
-   * - 文殊堂(`@monjudoh <http://twitter.com/monjudoh>`_)
+   * - 文殊堂 (`@monjudoh <http://twitter.com/monjudoh>`_)
      - 同上
 
 .. figure:: /_static/japan-team.jpg
@@ -56,8 +56,25 @@ PyCon Taiwan 2012の開催概要は以下のとおりです。
 
    PyCon Taiwan 2013 参加メンバー(右端は Chairperson の Yung-Yu Chen氏)
 
-PyCon APAC宣伝
---------------
+PyCon APAC 2013 in Japan のお知らせ
+-----------------------------------
+さて、本題に入る前に PyCon APAC 2013 in Japan のお知らせです。
+日本で開催される PyCon (Python Conference) は昨年までの `PyCon JP <http://2012.pycon.jp/>`_ ではなく、今年は APAC(アジア太平洋地域)での PyCon としてより国際的なイベントとする予定です。
+
+イベントの開催概要は以下となります。
+
+:名称: PyCon APAC 2013 in Japan
+:チュートリアル: 2013-09-13(金)
+:カンファレンス: 2013-09-14(土)-15(日)
+:開発スプリント: 2013-09-16(月・祝)
+:テーマ: The Year of Python
+:会場: `工学院大学 新宿キャンパス <http://apac-2013.pycon.jp/ja/venue/index.html>`_
+:参加者数(予定): 500
+
+現在、講演内容の募集(Call for Proposals)とスポンサーの募集を行なっています。みなさんふるってご応募ください。入場チケットの一般発売は6月中旬を予定しています。
+
+- `Call for Proposals <http://apac-2013.pycon.jp/ja/speakers/cfp.html>`_
+- `PyCon APAC 2013 in Japan スポンサー募集について <http://apac-2013.pycon.jp/ja/sponsors/prospectus.html>`_
 
 0日目(5/24)
 ===========
