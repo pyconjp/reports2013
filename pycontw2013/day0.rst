@@ -39,7 +39,7 @@ PyCon Taiwan 2012の開催概要は以下のとおりです。
    * - 増田 泰(`@whosaysni <http://twitter.com/whosaysni>`_)
      - 一般社団法人PyCon JP理事
    * - 宵 勇樹(`@showyou <http://twitter.com/showyou>`_)
-     - 
+     - PyCon JP 2012 ボランティア
    * - 小松 大輔(`@vkgtaro <http://twitter.com/vkgtaro>`_)
      - Catchball21
    * - 森本 真一(`@shnmorimoto <http://twitter.com/shnmorimoto>`_)
@@ -47,7 +47,7 @@ PyCon Taiwan 2012の開催概要は以下のとおりです。
    * - 梅田 たけふみ
      - Catchball21
    * - 村岡 ゆうすけ(`@jbking <http://twitter.com/jbking>`_)
-     - グルメ、観光担当。PyCon Taiwan には参加せず
+     - グルメ、観光担当、PyCon Taiwan には参加せず
    * - 文殊堂(`@monjudoh <http://twitter.com/monjudoh>`_)
      - 同上
 
