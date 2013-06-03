@@ -16,10 +16,23 @@ Pythonに限らず勉強会などに参加し、そういった活動がきっ�
 2010年に「エキスパートPythonプログラミング」を4人で翻訳・出版させていただいた。
 他に「Pythonプロフェッショナルプログラミング (2012年)」の4,7章を執筆。
 
-サイト: `http://清水川.jp/ <http://清水川.jp/>`_
-Twitter: `@shimizukawa <http://twitter.com/shimizukawa>`_
+:サイト: `http://清水川.jp/ <http://清水川.jp/>`_
+:Twitter: `@shimizukawa <http://twitter.com/shimizukawa>`_
 
 
-鈴木たかのり
-============
+鈴木 たかのり(スズキ タカノリ)
+==============================
+.. image:: /_static/kurokuri.jpg
+
+PyCon JP コアスタッフ。 `BeProud <http://www.beproud.jp/>`_ 所属。
+
+部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。
+最近miniじゃなくなりつつある `Python mini Hack-a-thon <http://atnd.org/events/17896>`_ の主催者の一人でもある。
+`Python ボルダリング部(#kabepy) <http://connpass.com/series/64/>`_ の言い出しっぺで部長。
+
+趣味は吹奏楽とレゴとペンシルパズル。最近の目標は2012年9月にオープンしたマレーシアのレゴランドに行くこと。写真はうちのフェレットくろちゃんとくりちゃんです。
+
+:Twitter: `@takanory <http://twitter.com/takanory>`_
+:サイト: `takanory.net <http://takanory.net/>`_
+
 
