@@ -45,7 +45,7 @@ PyCon Taiwan 2012の開催概要は以下のとおりです。
    * - 森本 真一(`@shnmorimoto <http://twitter.com/shnmorimoto>`_)
      - Catchball21、LT発表
    * - 梅田 たけふみ
-     - Catchball21
+     - Catchball21(`umeda.takefumi <https://www.facebook.com/umeda.takefumi>`_)
    * - 村岡 ゆうすけ(`@jbking <http://twitter.com/jbking>`_)
      - グルメ、観光担当、PyCon Taiwan には参加せず
    * - 文殊堂(`@monjudoh <http://twitter.com/monjudoh>`_)
