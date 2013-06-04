@@ -19,10 +19,31 @@
 - 名札がシンプルになった。
 - 2日前に登録番号入りのリマインダメールもらってたので迷わず。
 - 昨年のような登録番号の掲示はしてなかった。
+- オープニングが英語だった
 
-オープニング・キーノート(たかのり)
-==================================
+Keynote Speech: Making with Python 3
+====================================
+最初のキーノートスピーチは `David Beazley 氏 <http://www.dabeaz.com/>`_ (`@debeaz <https://twitter.com/dabeaz>`_)による "Making with Python 3" です。
+このセッションでは Python 3 でのプログラミングの楽しさについての話がありました。
+David 氏は `Python Essential Reference <http://www.amazon.com/Python-Essential-Reference-Developers-Library/dp/0672329786>`_ と
+Python Cookbook の著者でもあり、今年の5月に発売された
+`Python Cookbook, 3rd Edition <http://shop.oreilly.com/product/0636920027072.do>`_
+は Python 3.3 に対応しているそうです。
 
+現在 Python プログラミング言語では、今後はメンテナンスサポートのみの **Python 2** と、一部の言語仕様で Python 2 との後方互換性を排除した **Python 3** の2つのバージョンが存在しています。この基調講演では全 Python ユーザーが興味を持っている Python 3 の特徴や Python 3 に移行するタイミングについて講演されました。
+
+.. figure:: /_static/david.jpg
+   :width: 400
+
+   David Beazley 氏
+
+David 氏は17年前(!!)に参加したのが最初の PyCon で、そのときの参加者は数十名だったでそうです。まずは Python 3 が4.5年開発されていること、Python 3 が Python 2 のデザイン上の傷を修正したものであることといった説明がされました。
+
+会場に「Python 3を使っている人」という問いかけをしましたが、10人程度といった感じでした。今年の PyCon US で同じ質問があったときには 10% くらいの人が手を上げたそうです。その後、dict_keys、整数の割り算、print メソッド、非同期IO(`PEP 3156 <http://www.python.org/dev/peps/pep-3156/>`_)、Enum(`PEP 435 <http://www.python.org/dev/peps/pep-0435/>`_)などの Python 3 での新しい部分について説明をしました。Unicode/Bytes については Python 3 ではもっとも痛いところだというのは共通認識のようです。
+
+最後に「Python 3 でのプログラミングは楽しいか?」という自らの問いに対して、いろいろ揃っているので楽しい、今が Python 3 を試すときだ。として、キーノートをまとめました。
+
+その頃、しみずかわさんはキーノート直後の自分の発表準備をしており、まったく発表を聞いていなかったそうです。
 
 .. figure:: /_static/day1-shimizukawa-at-keynote1-time.jpg
 
