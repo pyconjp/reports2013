@@ -180,10 +180,15 @@ LT2人目は、日本からPyConTWのスポンサーとして参加している 
 
 LTで doctest + Sphinx の発表を行ったJenny(梁睿珊)を、昨年のPyConTWで知り合ったmoskyに紹介してもらいました。私(清水川)の発表の時間には友人の発表を聞いていたということでしたが、Sphinxにはとても関心があるとのことでした。Sphinx Tシャツ(S)をプレゼントしたところ非常に喜んでもらえました。今年秋のPyCon APAC 2013にも誘ったのですが、ちょうどその時期に残念ながら旅行に出かけているため参加出来ないそうです。残念ですね。
 
+.. image:: /_static/jenny_and_shimizukawa.jpg
+   :height: 400
 
 .. todo:: BoFは並行でやってた
 
 .. todo:: PyLadiesについて
+
+.. image:: /_static/pyladies-taiwan.jpg
+   :width: 400
 
 夜市(たかのり)
 ==============
