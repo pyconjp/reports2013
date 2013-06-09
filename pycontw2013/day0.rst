@@ -30,12 +30,12 @@ PyCon Taiwan 2012の開催概要は以下のとおりです。
 
 今回は日本からは8名(+2名)が日本から参加しました。
 
-.. todo:: しみずかわさん奥さんの扱いどうするか(しみずかわ)
-
 .. list-table::
 
    * - 清水川 貴之 (`@shimizukawa <http://twitter.com/shimizukawa>`_)
      - PyCon APAC 2013 会計、セッション発表
+   * - 清水川 知恵子
+     - 台湾遠征の手配全般、現地サポーター、カメラマン
    * - 鈴木 たかのり (`@takanory <http://twitter.com/takanory>`_)
      - PyCon APAC 2013 事務局、LT発表
    * - 増田 泰 (`@whosaysni <http://twitter.com/whosaysni>`_)
@@ -110,12 +110,8 @@ PyCon JP 清水川です。
 
 台湾料理を楽しみながら参加者同士で話をしていたところ、それぞれがPyConTWに向けてちょっとした緊張を持っていることがわかりました。たかのりさんはLightningTalk(LT)でPyCon APACの紹介、CB21さんもスポンサーとしてLTで発表する予定があり、そして私(清水川)も明日午前の基調講演後すぐにSphinxの発表を予定しています。何より、3人とも英語での発表は初挑戦です。
 
-.. todo:: たかのりさんが初英語発表かどうか確認する→初英語発表です。英語で人前で話すのは PyCon JP 2012 のオープニングが最初かな。(しみずかわ)
-
 私は、この時点まだ明日の発表資料が仕上がっていなかったため、青葉での夕食後ホテルに戻り、資料の仕上げに取り組みました。
-
 
 .. _`青葉`: http://www.aoba.com.tw/chingye/
 .. _`(株)Catchball21`: https://www.cb21.co.jp/
-
 
