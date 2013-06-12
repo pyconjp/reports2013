@@ -67,6 +67,7 @@ PMM: /trunc/Objects/obmalloc.c
 Page bank?
 
 Pipeline
+   これと同じ内容http://urtalk.kpoint.com/kapsule/gcc-a74f93b4-0863-4cfb-ab39-916b9364f6e3/a/250569
    ETL
 
 Coding guide

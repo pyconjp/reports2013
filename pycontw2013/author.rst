@@ -36,3 +36,12 @@ PyCon JP コアスタッフ。 `BeProud <http://www.beproud.jp/>`_ 所属。
 :サイト: `takanory.net <http://takanory.net/>`_
 
 
+宵 勇樹(ヨイ ユウキ)
+==============================
+
+PyCon JP 2012お手伝い。
+
+Pythonは主にTwitter Botを作るのに使用。機械学習にも興味があり、PRML勉強会,R,Web Mining系の勉強会を主催、参加。
+
+:Twitter: `@showyou <http://twitter.com/showyou>`_
+:サイト: `White scenery @showyou <http://showyou41.dyndns.org/blog/>`_
