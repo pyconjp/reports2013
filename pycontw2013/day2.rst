@@ -79,10 +79,29 @@
 - 日本語と英語が少し分かる台湾の方と知り合った！
 - クロージング英語無くて辛かった
 
+.. figure:: /_static/day2-closing1.jpg
+   :width: 800
+
+   Pythonista召喚ルーレット
+
+.. figure:: /_static/day2-closing2.jpg
+   :width: 800
+
+   クロージング中に知り合ったQmole氏と、清水川さん
+
+.. figure:: /_static/day2-closing3.jpg
+   :width: 800
+
+   `Yung-Yu Chen`_ 氏から `Tim Hsu`_ 氏へバトンタッチ
+
 .. figure:: /_static/group.jpg
    :width: 800
 
    集合写真
+
+
+.. _Yung-Yu Chen: https://www.facebook.com/yungyuc
+.. _Tim Hsu: https://www.facebook.com/wenchang.hsu
 
 ディナー、その後ビール(たかのり)
 ================================
