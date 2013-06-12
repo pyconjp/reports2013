@@ -15,7 +15,7 @@
 
 朝食、お弁当、ティーブレイク(たかのり)
 ======================================
-鈴木たかのりです。1日目のレポートで清水川さんも書いていましたが、今回は朝食、ランチのお弁当、ティーブレイクがついていて、会期中にお腹が空いたということがありませんでした。どちらかというと食べ過ぎになりそうなので、おやつを節制していました。ランチ会場はメインとなるカンファレンスホールの裏手になっていて、それほど混雑することもなくおいしいランチにありつけました。
+鈴木たかのりです。1日目のレポートで清水川さんも書いていましたが、今回は朝食、ランチのお弁当、ティーブレイクがついていて、会期中にお腹が空いたということがありませんでした。どちらかというと食べ過ぎになりそうなので、おやつを節制していました。ランチ、ティーブレイク会場はメインのカンファレンスホールの裏にありました。それほど混雑することもなくおいしいランチにありつけました。
 
 .. figure:: /_static/bento1.jpg
    :width: 400
@@ -51,12 +51,24 @@
 
 データサイエンスっぽい話(宵)
 ==============================
-宵です。pycon twでは学術系の方の発表が多く、さらにpython自体numpyなど数値計算系のライブラリが出てきているため、
+宵です。PyCon Taiwan では学術系の方の発表が多く、さらにpython自体 `numpy <http://www.numpy.org/>`_ など数値計算系のライブラリが出てきているため、
 いくつかデータサイエンス系の発表もありました。ここでは軽く掲載しておきます。
 
-- Getting Python To Learn From Only Parts Of Your Data: 機械学習用ライブラリScikit-learnを使った、交差検定やブースティングの例を紹介していました。
-- Scientific Data Analysis Pipelines - Push, Pull, React, Or Schedule?: ETL(Extract/Transform/Load)的なデータの処理に関して、pythonのgeneratorを使って対処する方法を紹介していました。
-- Big Data Analysis in Python: あるWeb投稿サイトのテキストを収集して、オススメのテキストを推薦するシステムの構築について紹介していました。テキストの格納にはmongoDB,Solrを使い、オススメするかどうかの判定には、単語の出現頻度に対してSVM(サポートベクターマシーン)を使うことで対処しています。
+- **Getting Python To Learn From Only Parts Of Your Data**
+
+  - Dr. Ami Tavory
+  - 機械学習用ライブラリScikit-learnを使った、交差検定やブースティングの例を紹介していました。
+
+- **Scientific Data Analysis Pipelines - Push, Pull, React, Or Schedule?**
+
+  - Dr. Ami Tavory
+  - ETL(Extract/Transform/Load)的なデータの処理に関して、pythonのgeneratorを使って対処する方法を紹介していました。
+
+- **Big Data Analysis in Python**
+
+  - Jimmy Lai
+  - 資料: http://www.slideshare.net/jimmy_lai/big-data-analysis-in-python
+  - あるWeb投稿サイトのテキストを収集して、オススメのテキストを推薦するシステムの構築について紹介していました。テキストの格納にはmongoDB,Solrを使い、オススメするかどうかの判定には、単語の出現頻度に対してSVM(サポートベクターマシーン)を使うことで対処しています。
 
 クロージング、集合写真(清水川)
 ==============================
