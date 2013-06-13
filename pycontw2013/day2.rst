@@ -32,6 +32,23 @@
 その後手書きメモなども交えて、いろいろな解き方について説明がありました。ルービックキューブの解き方には色んな種類があるんですねー。私は爆力解以外で自力で6面揃えたことがない気がします。
 
 さて、後半はルービックキューブを自動で解く pyRubiks についての解説です。コードは bitbucket で公開されているようです(https://bitbucket.org/darkgerm/pyrubiks)。
+pyRubiks 以下のようにいくつかの部分にわかれているようです。
+
+- 実際のルービックキューブを `SimpleCV <http://www.simplecv.org/>`_ で読み取り XML ファイルを出力
+- XML file を XML parser を使って cube class のコードに変換
+- cubeSolver でルービックキューブを解き、解く手順を出力
+- `VPython <http://www.vpython.org/>`_ で実際の動作をアニメーション表示
+
+また cubeSolver の部分は `NumPy <http://www.numpy.org/>`_ を使用しているそうです。
+実際の解き方は
+`Fridrich Method <http://en.wikipedia.org/wiki/Fridrich_Method>`_ というものを使っているそうです。
+
+.. figure:: /_static/rubik3.jpg
+   :width: 400
+
+   pyRubiks の全体像
+
+発表者はルービックキューブが非常好きなようで、いろいろな Python のモジュールを使ってルービックキューブを解くプログラムを作っていて、趣向の変わった面白い発表でした。
 
 駭客看 Django
 -------------
