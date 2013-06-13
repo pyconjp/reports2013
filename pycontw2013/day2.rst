@@ -9,11 +9,32 @@
 
 セッションの紹介
 ================
+
+當 Python 遇上魔術方塊
+----------------------
 鈴木たかのりです。ここでは「當 Python 遇上魔術方塊」というセッションについて紹介します。このセッションではルービックキューブ(魔術方塊)の解き方の解説と、それを Python で実装した pyRubiks ついて紹介していました。
 
 :発表者: 戴嘉駿(darkgerm) 
 :資料: https://docs.google.com/file/d/0B64bMmimU6LaTzFMMTJCU1c5RUk/edit
 
+.. figure:: /_static/rubik1.jpg
+   :width: 400
+
+   戴嘉駿(darkgerm)氏
+
+前半はルービックキューブの解き方を図を交えてわかりやすく紹介していました。最初に「爆力解(?)」というのがあって、それはもしや?と思ったら想定通りでした。昔良くやりました。
+
+.. figure:: /_static/rubik2.jpg
+   :width: 400
+
+   爆力解
+
+その後手書きメモなども交えて、いろいろな解き方について説明がありました。ルービックキューブの解き方には色んな種類があるんですねー。私は爆力解以外で自力で6面揃えたことがない気がします。
+
+さて、後半はルービックキューブを自動で解く pyRubiks についての解説です。コードは bitbucket で公開されているようです(https://bitbucket.org/darkgerm/pyrubiks)。
+
+駭客看 Django
+-------------
 - Djangoクラック話、超満員
   https://speakerdeck.com/p8361/hai-ke-kan-django 
 
