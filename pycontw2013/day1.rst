@@ -136,9 +136,9 @@ Lightning Talks
 ===============
 清水川です。
 
-1日目の16時過ぎからはライトニングトーク(LT, 中国語では **閃電秀**)です。
+1日目の16時過ぎからはライトニングトーク(LT)、中国語では **閃電秀** と書くようです。
 LTは技術系カンファレンスではおなじみの、一人5分ほどの短い時間でプレゼンテーションを行うものです。
-事前にLTの申し込み登録がありましたが、当日も参加募集を募っており、15ほどのLT発表が行われました。
+今回のPyConTWでは事前にLTの募集をしていましたが、当日も募集しており、最終的には15ほどの発表が行われました。
 
 .. figure:: /_static/day1-lt-recruitment.jpg
    :width: 400
@@ -160,31 +160,44 @@ LT1人目ということもあり、本人はかなり緊張していたとの�
 
 .. _`PyCon APAC 2013`: http://apac-2013.pycon.jp/
 
-LT2人目は、日本からPyConTWのスポンサーとして参加している `(株)Catchball21`_ さんです。
-
-* Introduced CatchBall21 company and promise with Yung-Yu Chen.
+LT2人目は、日本からPyConTWのスポンサーとして参加している `(株)Catchball21`_ さんの ``Introduced CatchBall21 company and promise with Yung-Yu Chen.`` です。
+「昨年のPyConJPに来ていた `Yung-Yu Chen`_ 氏と2013年のPyConTWに行くよ、と約束したのでやって来ました」とPyConTWに参加した経緯を紹介しつつ、昨年自社の標準開発言語をPythonにしたこと、どのようなことにPythonを使っているかなどを紹介し、最後に「Pythonistaを募集してます！」と締めくくりました。
 
 :資料: http://www.slideshare.net/shnmorimoto/pycon-taiwan-2013-lt-cb21-from-japan
-:動画: http://youtu.be/_RxIrOkByTQ (連続で発表とは知らず、最初が撮影できていません)
 
-.. todo:: もうちょっと内容紹介する
 
 .. _`(株)Catchball21`: https://www.cb21.co.jp/
 
 
-3つめ以降のLTは中国語が多かったのですが、いくつか面白かったものを紹介します。
+これ以降のLTでは以下の発表が行われました。
 
-.. todo:: LTいくつか紹介
+- WeasyPrint − bring the web to PDF and paper - Simon Sapin
+- 用 Python 讓 Raspberry Pi 和臉部辨識來個小小相遇 (暫定) - 王興謙
+- Bottle vs. Startup （微議程之 - 微框架 vs. 微創業） - 曾君宇
+- Modularize your Django settings - 潘韋成
+- Building a fast digit recognition solution with Python - 許家誠
+- 3 個不同的 Python 組織文化 - Keith Yang
+- 真蝦! 意外接到的 case - 陳炯廷
+- Violent Python: Python in the dark side. - xatierlike Lee
+- Dot.py - 陳建勳
+- The Zen of Language Choice - TsungWei Hu
+- doctest: 註解、測試一次搞定 - 梁睿珊
+- （他、当日募集分）
 
-   * PyTesserというOCRエンジンのPythonブリッジ
-     https://pypi.python.org/pypi/PyTesser ver 0.0.1
-     PyTesserのバージョンは若すぎるけど、ブリッジしてるだけなら精度は
-     Engine側次第かな
+タイトルを見たとおり、ほぼ中国語だったのですが、doctestとSphinxについてのLTがあったので紹介します。
+``doctest: 註解、測試一次搞定`` の発表者 `Jenny`_ はMoskyに「なぜそんなに速くプロダクトを書けるのか」という質問をしたところ、「doctestとSphinxを使っているから」という答えをもらったそうです。LTで紹介されたのは、コード中にdocstringとしてドキュメントを書いてこれをdoctestでテストする方法と、docstringを書いておけばSphinxで自動的に抽出してドキュメントを生成できるという例でした。ちなみにMoskyは昨年のPyConTWに参加した際に知り合った台湾の大学生で、PyCon JP 2012にも参加して `Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program`_ という演題で発表してくれた方です。
 
-   * jenny(梁睿珊)のdoctest+sphinx
-     day1-lt-jenny.jpg
-     day1-lt-jenny-doctest.jpg
-     http://www.slideshare.net/juishanliang/py-contw2013-doctest
+.. _`Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program`: http://2012.pycon.jp/program/sessions.html#session-15-1430-room351a-ja
+
+.. figure:: /_static/day1-lt-jenny.jpg
+   :width: 400
+
+   梁睿珊 (Jenny/jsliang) さんのLT発表
+
+:資料: http://www.slideshare.net/juishanliang/py-contw2013-doctest
+
+
+.. _Jenny: http://tw.pycon.org/2013/ja/speaker/#speaker_id_15
 
 鈴木たかのりです。
 
@@ -197,22 +210,6 @@ LT2人目は、日本からPyConTWのスポンサーとして参加している 
 
 なにはともあれ、貴重な体験をすることができて、こんな機会を設けてくれた PyCon Taiwan スタッフに感謝の言葉しかありません。
 
-.. 以下は予定していたLT
-..
-.. - Plone: Powerful Python based Content Management System - Takanori Suzuki
-.. - Introduction to PyCon APAC 2013 in Japan - Takanori Suzuki
-.. - WeasyPrint − bring the web to PDF and paper - Simon Sapin
-.. - 用 Python 讓 Raspberry Pi 和臉部辨識來個小小相遇 (暫定) - 王興謙
-.. - Bottle vs. Startup （微議程之 - 微框架 vs. 微創業） - 曾君宇
-.. - Modularize your Django settings - 潘韋成
-.. - Building a fast digit recognition solution with Python - 許家誠
-.. - 3 個不同的 Python 組織文化 - Keith Yang
-.. - 真蝦! 意外接到的 case - 陳炯廷
-.. - Violent Python: Python in the dark side. - xatierlike Lee
-.. - Dot.py - 陳建勳
-.. - The Zen of Language Choice - TsungWei Hu
-.. - doctest: 註解、測試一次搞定 - 梁睿珊
-
 
 レセプション、BoF(清水川)
 =========================
@@ -220,7 +217,7 @@ LT2人目は、日本からPyConTWのスポンサーとして参加している 
 
 .. todo:: レセプションの写真
 
-LTで doctest + Sphinx の発表を行った女性、Jenny(梁睿珊)と、Sphinx繋がりということで話をしてみたい、もしかしたらPyCon APAC 2013に来てくれるかも！？と思い、LTスライドで名前が出ていたmosky（昨年のPyConTWで知り合い、PyCon JP 2012にも来てくれた）に紹介してもらいました。Jennyは、私のSphinxの発表時には友人の発表を聞いていたということでしたが、Sphinxにはとても関心があるとのことでした。Sphinx Tシャツ(S)をプレゼントしたところ非常に喜んでもらえました。今年秋のPyCon APAC 2013にも誘ったのですが、ちょうどその時期に残念ながら旅行に出かけているため参加出来ないそうです。残念。
+LTでdoctestとSphinxについての発表を行った Jenny_ と、Sphinx繋がりということで話をしてみたい、もしかしたらPyCon APAC 2013に来てくれるかも！？と思い、LTスライドで名前が出ていたMoskyに紹介してもらいました。Jennyは、私(清水川)のSphinxの発表時には友人の発表を聞いていたということでしたが、Sphinxにはとても関心があるとのことでした。Sphinx Tシャツ(S)をプレゼントしたところ非常に喜んでもらえました。今年秋のPyCon APAC 2013にも誘ったのですが、ちょうどその時期に残念ながら旅行に出かけているため参加出来ないそうです。残念。
 
 .. image:: /_static/jenny_and_shimizukawa.jpg
    :height: 400
@@ -269,11 +266,15 @@ LTで doctest + Sphinx の発表を行った女性、Jenny(梁睿珊)と、Sphin
 
 途中で蛙のような謎な鳴き声が聞こえる池や、野良犬っぽい仲良し4匹の犬の群れと遭遇しつつ、気持よく散歩からホテルの前に戻ってきました。
 すると `ホテル前の公園のベンチ <http://goo.gl/maps/syFDE>`_ から私に声をかける人がいます。「誰だ?」と思ってみてみると PyCon Taiwan 2013 の Chaiperson の
-`Yung-Yu Chen <https://www.facebook.com/yungyuc>`_ 氏と
-Secretary の `Tim Hsu <https://www.facebook.com/wenchang.hsu>`_ 氏でした。私は二人に「ちょっとビール取ってくるから」と告げて、ちょうど先ほど購入した台湾マンゴービールを持ってベンチに戻り、三人で話をしました。
+`Yung-Yu Chen`_ 氏と
+Secretary の `Tim Hsu`_ 氏でした。私は二人に「ちょっとビール取ってくるから」と告げて、ちょうど先ほど購入した台湾マンゴービールを持ってベンチに戻り、三人で話をしました。
 
 そこでは、今年は PyCon APAC を日本で開催するが、どうやったら日本人と海外から来た人たちが交流できるか、日本と台湾の Python 関連コミュニティについてなどの話をしました。他にも来年は台湾が PyCon APAC を開催する予定であること、またその Chairperson を Tim Hsu 氏が務めることなどの話を聞きました。
 
 ちょっとした気まぐれで夜の散歩に出たおかげで、台湾Python界の重要人物二人とフランクに話ができて非常にラッキーでした。関係ないですが、この時は私が台湾ビールを飲んでいて、Yung-Yu Chenがアサヒスーパードライ、Tim Hsuがお〜いお茶を飲んでいて、なんか不思議な感じでした。
 
 こうしてPyCon Taiwanの一日目を終えました。
+
+.. _Yung-Yu Chen: https://www.facebook.com/yungyuc
+.. _Tim Hsu: https://www.facebook.com/wenchang.hsu
+
