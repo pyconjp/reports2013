@@ -5,7 +5,7 @@
 PyCon JP の鈴木たかのりです。
 
 去る2013年5月25(土)、26日(日)に台湾の台北にて `PyCon Taiwan 2013 <http://tw.pycon.org/2013/ja/>`_ が開催されました。
-私と清水川さんは `PyCon APAC 2013 <http://apac-2013.pycon.jp/>`_ のスタッフを代表してこのイベントに参加し、イベントの宣伝を行ったり海外の Pythonista (Pythonプログラミング言語ユーザー)と交流を行うなどしてきました。
+私と清水川さんは `PyCon APAC 2013 in Japan <http://apac-2013.pycon.jp/ja/>`_ のスタッフを代表してこのイベントに参加し、イベントの宣伝を行ったり海外の Pythonista (Pythonプログラミング言語ユーザー)と交流を行うなどしてきました。
 
 ここでは、その PyCon Taiwan 2013 の参加レポートをお届けします。
 
