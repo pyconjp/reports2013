@@ -118,19 +118,51 @@ Sphinx発表
 .. _Sphinx-users.jp: http://sphinx-users.jp/
 
 
-なにか気になったセッション(清水川)
-==================================
+1日目のセッション
+====================
 
-- 5/25 14:30 「Python memory management & Impact to memory-hungry application」（会議室１）
-  連続したメモリをOSで確保できなくても巨大なメモリ空間を使えるようにするPyObjectのメモリバンク実装について（だったと思う）。PyBank。
+清水川です。1日目の日中はいくつかセッションを見て廻りましたが、朝からの発表準備や発表疲れもあり、基本的にぐったりしていました。また、3トラックのうち1つは英語トラックなのですが、それ以外のトラックでは話している言葉が分からないため、なかなか厳しかったですね。
+
+そんな状態でしたが、参加したセッションからすこし紹介したいと思います。
+
+Python memory management & Impact to memory-hungry application
+-----------------------------------------------------------------
+
+`Python memory management & Impact to memory-hungry application`_ という発表では、連続したメモリをOSで確保できない状況でも巨大な連続メモリ空間を使えるようにする、PyBankというPyObjectのメモリバンク実装について紹介していました。
+
+.. figure:: /_static/day1-pybank1.jpg
+   :width: 400
+
+   8000x6000 pixelsの巨大な画像データ
 
 
-- 5/25 15:30 「Praat-py: The Force Unleashed!」（会議室２）
-  人間は年齢とともに高周波数の音を聞き分けにくくなっていく。
-  人間が感じている音の違いをコンピューターで分析するツール「Praat」は
-  GUI操作をスクリプト保存して繰り返し実行などができるが、文法がわかりにくい。
-  これをPythonスクリプトで扱えるようにする話。
+.. figure:: /_static/day1-pybank2.jpg
+   :width: 400
 
+   連続したメモリを必要とする巨大画像を複数扱う
+
+8000x6000 pixelsもの高精細な写真では、イベントコンパニオンのバストアップ写真で産毛が判別できるほどの精度を持っています。このような巨大な画像データを扱うには連続したメモリ空間が必要で、さらに画像加工のためにはそのような巨大連続メモリ空間が複数画像分必要となります。PythonのPyObjectでそのようなことをすると連続したメモリが確保出来ずMmeoryErrorとなってしまう問題と、そのような問題を回避するためにPyBankを用いるといったことや、その仕組みをPythonのC言語の実装でどのようにして実現するかといったことを紹介していました。
+
+実践的な内容というよりはPythonのC実装モジュールの解説という雰囲気でしたが、立ち見も含めて80名ほどの参加者が興味深そうに聞いていたのが印象的でした。
+
+
+Praat-py: The Force Unleashed!
+-------------------------------
+
+.. figure:: /_static/day1-praatpy.jpg
+   :width: 400
+
+   Praat-py の発表
+
+`Praat-py: The Force Unleashed!`_ という発表では、音声学の分野で使われる音声分析ソフトウェア Praat_ の紹介と、その操作を簡単に行うための補助ツール praat-py_ について紹介していました。音声学というのはこの発表で初めて知ったのですが、物理現象としての音を扱うのでは無く、音声学では人間の耳が音をどう捉えているかに注目するそうです。そのために人間が感じている音の違いをコンピューターで分析するツールが「Praat」で、年齢が上がるにつれて高周波数帯の音を聞き分けにくくなる、といった現象も再現して見ることができるそうです。PraatはGUIツールなのですが、その操作をスクリプト保存して繰り返し実行できる機能を持っています。しかし、そのスクリプトの文法がわかりにくいのでPythonスクリプトで扱えるようにするのがpraat-pyということでした。
+
+発表自体は音声学の紹介とPraatoのデモを中心としたものだったため、Pythonの要素はほとんどありませんでしたが、数学系の特色が強いPyCon TWの特徴をあらわした発表だったと思います。
+
+
+.. _`Python memory management & Impact to memory-hungry application`: http://tw.pycon.org/2013/ja/speaker/#speaker_id_16
+.. _`Praat-py: The Force Unleashed!`: http://tw.pycon.org/2013/ja/speaker/#speaker_id_32
+.. _Praat: http://www.fon.hum.uva.nl/praat/
+.. _praat-py: https://github.com/tauberer/praat-py
 
 Lightning Talks
 ===============
