@@ -3,14 +3,27 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PyCon Singapore 2013 report's documentation!
+PyCon Singapore 2013 レポート
 =======================================================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
+   
+   day0
+   day1
+   day2
+   conclusion
+   author
+   
 
+写真とビデオ
+------------
+記事に使用してください
+
+- `Dropbox by 寺田さん <https://www.dropbox.com/sh/kby7qv2hvr62v1k/AMiKz7hGJ8>`_
+- `Dropbox by 神谷 <https://www.dropbox.com/sh/o13rja2kg25sgkq/lBcKYL5zFI>`_
 
 
 Indices and tables
