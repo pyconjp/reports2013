@@ -180,7 +180,7 @@ LTは技術系カンファレンスではおなじみの、一人5分ほどの�
 LTの最初の2つが日本人参加者の発表でした。
 
 まず1人目が、鈴木たかのりさんの ``Introduction of PyCon APAC`` です。
-LT1人目ということもあり、本人はかなり緊張していたとのことですが、発表を見ていた私としては非常に落ち着いていたように思います。発表中は、しっかりと笑いを取りつつ、今年の秋に行われる `PyCon APAC 2013`_ を紹介していいたハズなのですが、途中からボルダリングの話に……詳しくは当日の資料と動画を公開していますので、是非ご覧下さい。
+LT1人目ということもあり、本人はかなり緊張していたとのことですが、発表を見ていた私としては非常に落ち着いていたように思います。発表中は、しっかりと笑いを取りつつ、今年の秋に行われる `PyCon APAC 2013`_ を紹介していたハズなのですが、途中からボルダリングの話に……詳しくは当日の資料と動画を公開していますので、是非ご覧下さい。
 
 .. figure:: /_static/day1-lt-takanory.jpg
    :width: 400
@@ -216,7 +216,7 @@ LT2人目は、日本からPyConTWのスポンサーとして参加している 
 - doctest: 註解、測試一次搞定 - 梁睿珊
 - （他、当日募集分）
 
-タイトルを見たとおり、ほぼ中国語だったのですが、doctestとSphinxについてのLTがあったので紹介します。
+タイトルを見たとおり、ほぼ中国語での発表だったのですが、doctestとSphinxについてのLTがあったので紹介します。
 ``doctest: 註解、測試一次搞定`` の発表者 `Jenny`_ はMoskyに「なぜそんなに速くプロダクトを書けるのか」という質問をしたところ、「doctestとSphinxを使っているから」という答えをもらったそうです。LTで紹介されたのは、コード中にdocstringとしてドキュメントを書いてこれをdoctestでテストする方法と、docstringを書いておけばSphinxで自動的に抽出してドキュメントを生成できるという例でした。ちなみにMoskyは昨年のPyConTWに参加した際に知り合った台湾の大学生で、PyCon JP 2012にも参加して `Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program`_ という演題で発表してくれた方です。
 
 .. _`Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program`: http://2012.pycon.jp/program/sessions.html#session-15-1430-room351a-ja
