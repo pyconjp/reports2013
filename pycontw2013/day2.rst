@@ -112,25 +112,50 @@ pyRubiks 以下のようにいくつかの部分にわかれているようで�
   - 資料: http://www.slideshare.net/jimmy_lai/big-data-analysis-in-python
   - あるWeb投稿サイトのテキストを収集して、オススメのテキストを推薦するシステムの構築について紹介していました。テキストの格納にはmongoDB,Solrを使い、オススメするかどうかの判定には、単語の出現頻度に対してSVM(サポートベクターマシーン)を使うことで対処しています。
 
-クロージング、集合写真(清水川)
-==============================
+くじ引き、クロージング、集合写真
+================================
 - 日本語と英語が少し分かる台湾の方と知り合った！
 - クロージング英語無くて辛かった
 
+2日間の発表を終えてくじびき大会とクロージングです。
+去年に引き続き PyCon Taiwan では `pylottery <https://bitbucket.org/pycontw/pylottery>`_ というプログラムを使って抽選するのが伝統のようです(去年の PyCon JPでは手抜きして `random <http://docs.python.jp/2/library/random.html>`_ モジュールを使っていました)。
+
+pylottery プログラムが起動するとなんかなぞのキャラクターが出て来ました。
+
 .. figure:: /_static/day2-closing1.jpg
-   :width: 800
+   :width: 400
 
    Pythonista召喚ルーレット
+
+その後、インベーダーみたいな画面が表示されて、これで画面上部の数字を撃ちぬくと番号が決まるという仕組みです。その操作方法が斬新で、左右のマイクから声を出してボリュームが大きい方に機体が動くというものでした。
+
+.. figure:: /_static/pylottery1.jpg
+   :width: 400
+
+   pylottery の画面
+
+数字がこのように確定すると、PyCon Taiwan とスポンサー企業のロゴが出るというのは、なかなかいいアイデアだと思いました。
+
+.. figure:: /_static/pylottery2.jpg
+   :width: 400
+
+   抽選結果とロゴ
+
+しかし、この抽選がグダグダでなかなか進みませんでした。百の位で6とか7とかを連発していて「いや、そんなに人いないから」(PyCon Taiwan の参加者は400名超)って感じで何回も空振りします。いそうな数字になっても該当者が現れず再抽選となったりして、かなり抽選に時間を要しました。LLイベントではゴムボールを投げてプレゼントを渡しているそうで、それだと空振りがないので効率的だなーと思いました。
 
 .. figure:: /_static/day2-closing2.jpg
    :width: 800
 
    クロージング中に知り合ったQmole氏と、清水川さん
 
-.. figure:: /_static/day2-closing3.jpg
-   :width: 800
+くじ引き後のクロージングで、PyCon Taiwan 2012, 2013 の Chairperson Yung-Yu Chen 氏から、来年は PyCon APAC 2014 を台湾で開催するつもりであること、Tim Hsu 氏が来年の Chairperson を務めるということが発表されました。二人は壇上でハグし、その後 Tim 氏が今後について話してましたが、中国語なので詳しいことはわかりませんでした。
 
-   `Yung-Yu Chen`_ 氏から `Tim Hsu`_ 氏へバトンタッチ
+.. figure:: /_static/day2-closing3.jpg
+   :width: 400
+
+   `Yung-Yu Chen`_ 氏(右)から `Tim Hsu`_ 氏へバトンタッチ
+
+最後に全員でカンファレンスホールの表階段に集合し、写真撮影を行いました。このとき実は雨が少し降っていて、そのためこんな感じで階段の上の方に人が集まる形となりました。みなさんいい笑顔しています。こうして二日間の PyCon Taiwan は成功裏に終了しました。
 
 .. figure:: /_static/group.jpg
    :width: 800
