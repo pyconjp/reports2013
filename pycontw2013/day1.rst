@@ -126,7 +126,9 @@ Sphinx発表
 そんな状態でしたが、参加したセッションからすこし紹介したいと思います。
 
 Python memory management & Impact to memory-hungry application
------------------------------------------------------------------
+--------------------------------------------------------------
+:発表者: 郭彥廷(`Kilik <https://www.facebook.com/kilik.kuo>`_) 
+:動画: http://www.youtube.com/watch?v=iCzAmzGDTWk
 
 `Python memory management & Impact to memory-hungry application`_ という発表では、連続したメモリをOSで確保できない状況でも巨大な連続メモリ空間を使えるようにする、PyBankというPyObjectのメモリバンク実装について紹介していました。
 
@@ -148,6 +150,7 @@ Python memory management & Impact to memory-hungry application
 
 Praat-py: The Force Unleashed!
 -------------------------------
+:発表者: 王文傑(PeterWolf)
 
 .. figure:: /_static/day1-praatpy.jpg
    :width: 400
@@ -188,7 +191,8 @@ LT1人目ということもあり、本人はかなり緊張していたとの�
    鈴木たかのりさんのLT発表
 
 :資料: http://www.slideshare.net/takanory/pyconapac-0525
-:動画: http://youtu.be/8lSMCSd8oCo
+:動画: http://www.youtube.com/watch?v=8lSMCSd8oCo
+:動画(オフィシャル): http://www.youtube.com/watch?v=USPaHaFqM1Y
 
 .. _`PyCon APAC 2013`: http://apac-2013.pycon.jp/
 
@@ -196,6 +200,7 @@ LT2人目は、日本からPyConTWのスポンサーとして参加している 
 「昨年のPyConJPに来ていた `Yung-Yu Chen`_ 氏と2013年のPyConTWに行くよ、と約束したのでやって来ました」とPyConTWに参加した経緯を紹介しつつ、昨年自社の標準開発言語をPythonにしたこと、どのようなことにPythonを使っているかなどを紹介し、最後に「Pythonistaを募集してます！」と締めくくりました。
 
 :資料: http://www.slideshare.net/shnmorimoto/pycon-taiwan-2013-lt-cb21-from-japan
+:動画: http://www.youtube.com/watch?v=q0QOFdSHAiw
 
 
 .. _`(株)Catchball21`: https://www.cb21.co.jp/
@@ -227,7 +232,7 @@ LT2人目は、日本からPyConTWのスポンサーとして参加している 
    梁睿珊 (Jenny/jsliang) さんのLT発表
 
 :資料: http://www.slideshare.net/juishanliang/py-contw2013-doctest
-
+:動画: http://www.youtube.com/watch?v=y7sk2gW8y3E
 
 .. _Jenny: http://tw.pycon.org/2013/ja/speaker/#speaker_id_15
 
@@ -243,8 +248,8 @@ LT2人目は、日本からPyConTWのスポンサーとして参加している 
 なにはともあれ、貴重な体験をすることができて、こんな機会を設けてくれた PyCon Taiwan スタッフに感謝の言葉しかありません。
 
 
-レセプション、BoF(清水川)
-=========================
+レセプション、BoF
+=================
 17時頃から予定していたレセプション（晩宴）はLTが伸びたため17時半過ぎから始まりました。レセプション会場がメインホール前のフロアで無料だったこともあり、自然に人が集まって自然に始まった感じでした。
 
 .. figure:: /_static/day1-reception1.jpg

@@ -11,7 +11,8 @@ PyCon Taiwan の2日目は招待講演(Guest Speech)と基調講演(Keynote Spee
 Pythonic Epistemology
 ---------------------
 :発表者: Allen Downey(`allendowney.com <http://allendowney.com/>`_)
-:資料: `Python Epistemology: PyCon Taiwan 2013 - Google ドライブ <https://docs.google.com/presentation/d/1xEim-cnkUORU_tLBT1P-wnJ78xU_lbydAOdkrszps_M/edit#slide=id.p>`_
+:資料: `Python Epistemology: PyCon Taiwan 2013 <https://docs.google.com/presentation/d/1xEim-cnkUORU_tLBT1P-wnJ78xU_lbydAOdkrszps_M/edit#slide=id.p>`_
+:動画: http://www.youtube.com/watch?v=XpPfv2zPWoQ
 
 Allen Downey 氏の招待講演は、中継によって行われました。氏は大学でコンピューターサイエンスを教えているそうなので、おそらくその部屋からの中継のようです。
 台湾の会場では2画面を使って、公園をしている Allen Downey 氏と資料を映しだしていました。発表には `Google Houngouts <http://www.google.com/+/learnmore/hangouts/?hl=ja>`_ を使用して、スライドの共有には `Skype <http://www.skype.com/ja/>`_ を使っているのが個人的には興味深かったです。
