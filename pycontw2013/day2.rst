@@ -2,10 +2,44 @@
  Day 2
 =======
 
-2日目のキーノート書ける?(しみずかわ->宵)
-==========================================
-- ThinkPython, 動画中継でのゲスト講演。
-- (宵補足)話としてはpythonで綺麗にアルゴリズムを表現する方法を説明していました。例えば与えられた2つの単語がアナグラムになっているかどうかを判定する問題です。キーノートでの例とは少し変わりますが、"taiwan"と"anwait"はアナグラムになっています。pythonではいくつか解き方がありますが、例えば{ 単語:出現頻度 }のdictにまとめて比較を行えば綺麗にまとまります。 
+招待講演と基調講演
+==================
+鈴木たかのりです
+
+PyCon Taiwan の2日目は招待講演(Guest Speech)と基調講演(Keynote Speech)がありました。それぞれ簡単に紹介します。
+
+Pythonic Epistemology
+---------------------
+:発表者: Allen Downey(`allendowney.com <http://allendowney.com/>`_)
+:資料: `Python Epistemology: PyCon Taiwan 2013 - Google ドライブ <https://docs.google.com/presentation/d/1xEim-cnkUORU_tLBT1P-wnJ78xU_lbydAOdkrszps_M/edit#slide=id.p>`_
+
+Allen Downey 氏の招待講演は、中継によって行われました。氏は大学でコンピューターサイエンスを教えているそうなので、おそらくその部屋からの中継のようです。
+台湾の会場では2画面を使って、公園をしている Allen Downey 氏と資料を映しだしていました。発表には `Google Houngouts <http://www.google.com/+/learnmore/hangouts/?hl=ja>`_ を使用して、スライドの共有には `Skype <http://www.skype.com/ja/>`_ を使っているのが個人的には興味深かったです。
+
+内容としては課題があって、それを Python でこう書くと綺麗にアルゴリズムが評伝できるよという解説があり、実際に授業を受けているような気持ちになりました。プログラミングは目的ではなくて課題を理解するための道具であるといって話をしていました。
+
+.. figure:: /_static/guestspeech1.jpg
+   :width: 400
+
+   Allen Downey 氏による Guest Speech
+
+Allen Downey 氏が書いた `Think Python <http://shop.oreilly.com/product/0636920025696.do>`_ という書籍もあるようです。
+`Think Python: How to Think Like a Computer Scientist <http://www.greenteapress.com/thinkpython/>`_ から全文を読むことができるようです。興味を持った方は読んでみるとよいかも知れません。
+
+Building to scale
+-----------------
+:発表者: David Cramer(`@zeeg <https://twitter.com/zeeg>`_)
+:資料: `David Cramer: Building to scale <http://www.slideshare.net/it-people/david-cramer-building-to-scale>`_
+
+2日目の基調講演は David Cremer 氏による Building to scale というスケーリングに関する話です。
+氏は現在 `tenXer <https://www.tenxer.com/>`_ というデータ解析ツールを開発する会社で働いているそうです。現在携わっている tenXer や
+`Disqus <http://disqus.com/>`_
+`Sentry <https://getsentry.com/>`_ での経験を元に話をしていました。
+
+.. figure:: /_static/guestspeech1.jpg
+   :width: 400
+
+   Daivd Cramer 氏
 
 セッションの紹介
 ================
