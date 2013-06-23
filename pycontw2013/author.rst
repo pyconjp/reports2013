@@ -38,6 +38,7 @@ PyCon JP コアスタッフ。 `BeProud <http://www.beproud.jp/>`_ 所属。
 
 宵 勇樹(ヨイ ユウキ)
 ==============================
+.. image:: /_static/yukiyoi.jpg
 
 PyCon JP 2012お手伝い。
 
