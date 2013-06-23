@@ -57,7 +57,7 @@ Python Cookbook の著者でもあり、今年の5月に発売された
 
    David Beazley 氏
 
-David 氏は17年前(!!)に参加したのが最初の PyCon で、そのときの参加者は数十名だったでそうです。まずは Python 3 が4.5年開発されていること、Python 3 が Python 2 のデザイン上の傷を修正したものであることといった説明がされました。
+David 氏は17年前(!!)に参加したのが最初の PyCon で、そのときの参加者は数十名だったでそうです。まずは Python 3 が4.5年開発されていること、Python 3 が Python 2 のデザイン上の傷を修復したものであることといった説明がされました。
 
 会場に「Python 3を使っている人」という問いかけをしましたが、10人程度といった感じでした。今年の PyCon US で同じ質問があったときには 10% くらいの人が手を上げたそうです。その後、dict_keys、整数の割り算、print メソッド、非同期IO(`PEP 3156 <http://www.python.org/dev/peps/pep-3156/>`_)、Enum(`PEP 435 <http://www.python.org/dev/peps/pep-0435/>`_)などの Python 3 での新しい部分について説明をしました。Unicode/Bytes については Python 3 ではもっとも痛いところだというのは共通認識のようです。
 
