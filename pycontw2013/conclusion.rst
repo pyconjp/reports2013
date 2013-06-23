@@ -4,14 +4,14 @@
 
 PyConTW雑感(たかのり、清水川)
 =============================
-- おみやげの PyCon TW シャツを着る PyCon APAC 運営メンバー(写真)
-
-持ち帰ったものは PyCon APAC スタッフに配ったのですが、
+持ち帰ったものは PyCon APAC スタッフに配ったのですが、サイズがS2枚とMとXXLしかなかったため、受け取れる人が限られてしまいました。偏ったサイズがあまるのはどこでも同じ悩みのようです。
 
 .. figure:: /_static/pycon-taiwan-tshirts.jpg
    :width: 400
 
    PyCon Taiwan Tシャツを着る PyCon APAC スタッフ
+
+.. todo:: 雑感もうちょっと書く
 
 続きは PyCon APAC 2013 in Japan で
 ==================================
