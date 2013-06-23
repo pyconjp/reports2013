@@ -51,6 +51,7 @@ Building to scale
 
 :発表者: 戴嘉駿(darkgerm) 
 :資料: https://docs.google.com/file/d/0B64bMmimU6LaTzFMMTJCU1c5RUk/edit
+:動画: http://www.youtube.com/watch?v=Tw_LaKVlAy8
 
 .. figure:: /_static/rubik1.jpg
    :width: 400
@@ -87,16 +88,18 @@ pyRubiks 以下のようにいくつかの部分にわかれているようで�
 
 駭客看 Django
 -------------
+清水川です。PyCon TWではWebフレームワーク系の発表が少なく、Django, Pyramid, Ploneの発表が1つずつでした。その中の一つ、Djangoの発表はWebフレームワークの紹介ではなく、Djangoをどうやってクラックするかという内容でした。
 
-清水川です。PyCon TWではWebフレームワーク系の発表が少なく、Django, Pyramid, Ploneの発表が1つずつでした。その中の一つ、Djangoの発表はWebフレームワークの紹介ではなく、Djangoをどうやってクラックするかという内容でした。発表タイトルの「駭客看 Django」は日本語で「Hackerから見たDjango」という感じみたいですね。発表の前半ではDjangoとRailsを対象にした脆弱性数の比較などを紹介していましたが、中盤からは今のDjangoにどのような弱い点があって、そこをどうやって突破するのかといった実例を紹介していました。結論としては、Djangoは十分にセキュアな作りになっているんだけど、使い方を間違えると脆弱性を作り込んでしまう、という話でした。Djangoを使っている人は一読する価値があるのではないかと思います。
+:発表者: Orange
+:資料: https://speakerdeck.com/p8361/hai-ke-kan-django
+:動画: http://www.youtube.com/watch?v=iQXt_7ISGHQ
+
+発表タイトルの「駭客看 Django」は日本語で「Hackerから見たDjango」という感じみたいですね。発表の前半ではDjangoとRailsを対象にした脆弱性数の比較などを紹介していましたが、中盤からは今のDjangoにどのような弱い点があって、そこをどうやって突破するのかといった実例を紹介していました。結論としては、Djangoは十分にセキュアな作りになっているんだけど、使い方を間違えると脆弱性を作り込んでしまう、という話でした。Djangoを使っている人は一読する価値があるのではないかと思います。
 
 .. figure:: /_static/day2-django.jpg
    :width: 400
 
    Djangoのセキュリティー話に20人以上が立ち見
-
-:発表者: Orange
-:資料: https://speakerdeck.com/p8361/hai-ke-kan-django
 
 なお、発表者のOrange氏の専門はセキュリティー分野で、Djangoについては1週間ほどさわったばかりでこの発表を行ったそうです。
 
