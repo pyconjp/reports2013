@@ -24,7 +24,7 @@ PyCon Taiwan 2012の開催概要は以下のとおりです。
 :期間: 2013年5月25日、26日の2日間
 :構成: 3つの基調講演を含む3トラック(一部英語セッション)
        (`プログラム / PyCon Taiwan 2013 <http://tw.pycon.org/2013/ja/program/>`_)
-:参加費用: Early Bird(早期割引)1,900TWD 通常2,500TWD
+:参加費用: Early Bird(早期割引)1,900TWD 通常2,500TWD (1TWD=3.5JPY)
 :会場: `Academia Sinica <http://www.sinica.edu.tw/main_e.shtml>`_
 :参加人数: 約400名
 
