@@ -73,10 +73,11 @@ PyCon APAC 2013 in Japan のお知らせ
 :会場: `工学院大学 新宿キャンパス <http://apac-2013.pycon.jp/ja/venue/index.html>`_
 :参加者数(予定): 500
 
-現在、講演内容の募集(Call for Proposals)とスポンサーの募集を行なっています。みなさんふるってご応募ください。入場チケットの一般発売は6月中旬から下旬を予定しています。
+現在、講演内容の募集(Call for Proposals)とスポンサーの募集を行なっています。みなさんふるってご応募ください。また、入場チケットの一般発売も開始しています。8月中旬まではアーリーバード(早期購入割引)価格でチケットを販売中です。
 
 - `Call for Proposals <http://apac-2013.pycon.jp/ja/speakers/cfp.html>`_
 - `PyCon APAC 2013 in Japan スポンサー募集について <http://apac-2013.pycon.jp/ja/sponsors/prospectus.html>`_
+- `PyCon APAC 2013 in Japan 参加登録 <http://connpass.com/event/2703>`_
 
 0日目(5/24)
 ===========
