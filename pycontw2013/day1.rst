@@ -109,6 +109,9 @@ Sphinx発表
 
 ということで、私の初めての英語発表、初めての海外発表はうまく行かないことも多くありましたが、とても有意義なものになりました。次の機会がPyCon TWになるかどうか分かりませんが、それまでにまたレベルアップして臨みたいと思います。この機会を設けてくれた PyCon Taiwan スタッフの皆さんに感謝いたします。また、この発表に向けて、旅行の手配やスピーチ練習、現地での写真撮影など、妻が現地まで来てフルサポートしてくれました。多大な協力をしてくれた妻には感謝してもしきれません。ありがとう、本当に助かったよ。
 
+:資料: http://shimizukawa.bitbucket.org/pycontw2013-sphinx-introduction/index.html
+:動画: http://www.youtube.com/watch?v=10lOvz5MAq8
+
 .. _Introduction to Sphinx documentation generator: http://shimizukawa.bitbucket.org/pycontw2013-sphinx-introduction/index.html
 
 .. _Sphinx: http://docs.sphinx-users.jp/
