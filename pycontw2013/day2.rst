@@ -43,6 +43,11 @@ Building to scale
 
    Daivd Cramer 氏
 
+スケーリングに対応するための例として SQL で実装していた部分を一部 `Redis <http://redis.io/>`_ 等の key-value store に切り替えたり、
+`Celery <http://www.celeryproject.org/>`_ を使用して非同期でタスクを実行した場合などが示されていました。
+
+最後にまとめとして "Complex problems **do not** require complex solutions" (複雑な問題は複雑なソリューションを必要としない)としてまとめていたのは、個人的に納得ができるものでした。
+
 セッションの紹介
 ================
 
