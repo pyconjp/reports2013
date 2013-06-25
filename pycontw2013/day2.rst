@@ -30,7 +30,8 @@ Allen Downey 氏が書いた `Think Python <http://shop.oreilly.com/product/0636
 Building to scale
 -----------------
 :発表者: David Cramer(`@zeeg <https://twitter.com/zeeg>`_)
-:資料: `David Cramer: Building to scale <http://www.slideshare.net/it-people/david-cramer-building-to-scale>`_
+:資料: `Building to Scale (PyCon TW 2013) <https://speakerdeck.com/zeeg/building-to-scale-pycon-tw-2013>`_
+:動画: http://www.youtube.com/watch?v=YjiK5cjw0mY
 
 2日目の基調講演は David Cremer 氏による Building to scale というスケーリングに関する話です。
 氏は現在 `tenXer <https://www.tenxer.com/>`_ というデータ解析ツールを開発する会社で働いているそうです。現在携わっている tenXer や
@@ -50,7 +51,7 @@ Building to scale
 鈴木たかのりです。ここでは「當 Python 遇上魔術方塊」というセッションについて紹介します。このセッションではルービックキューブ(魔術方塊)の解き方の解説と、それを Python で実装した pyRubiks ついて紹介していました。
 
 :発表者: 戴嘉駿(darkgerm) 
-:資料: https://docs.google.com/file/d/0B64bMmimU6LaTzFMMTJCU1c5RUk/edit
+:資料: http://tw.pycon.org/2013/site_media/media/proposal_files/pyRubiks_2.pdf
 :動画: http://www.youtube.com/watch?v=Tw_LaKVlAy8
 
 .. figure:: /_static/rubik1.jpg
@@ -103,6 +104,31 @@ pyRubiks 以下のようにいくつかの部分にわかれているようで�
 
 なお、発表者のOrange氏の専門はセキュリティー分野で、Djangoについては1週間ほどさわったばかりでこの発表を行ったそうです。
 
+データサイエンス系のセッション紹介
+----------------------------------
+宵です。PyCon Taiwan では学術系の方の発表が多く、さらにpython自体 `numpy <http://www.numpy.org/>`_ など数値計算系のライブラリが出てきているため、
+いくつかデータサイエンス系の発表もありました。ここでは軽く掲載しておきます。
+
+- **Getting Python To Learn From Only Parts Of Your Data**
+
+  - Dr. Ami Tavory
+  - 資料: http://tw.pycon.org/2013/site_media/media/proposal_files/PythonPartsData2.odp 
+  - 動画: http://www.youtube.com/watch?v=pFbjBzhrUpY
+  - 機械学習用ライブラリScikit-learnを使った、交差検定やブースティングの例を紹介していました。
+
+- **Scientific Data Analysis Pipelines - Push, Pull, React, Or Schedule?**
+
+  - Dr. Ami Tavory
+  - 資料: http://tw.pycon.org/2013/site_media/media/proposal_files/PythonPartsData2.odp
+  - 動画: http://www.youtube.com/watch?v=neGrScpSy6w
+  - ETL(Extract/Transform/Load)的なデータの処理に関して、pythonのgeneratorを使って対処する方法を紹介していました。
+
+- **Big Data Analysis in Python**
+
+  - Jimmy Lai
+  - 資料: `Big data analysis in python <http://www.slideshare.net/jimmy_lai/big-data-analysis-in-python>`_
+  - 動画: http://www.youtube.com/watch?v=FKgDL8GeDpM
+  - あるWeb投稿サイトのテキストを収集して、オススメのテキストを推薦するシステムの構築について紹介していました。テキストの格納にはmongoDB,Solrを使い、オススメするかどうかの判定には、単語の出現頻度に対してSVM(サポートベクターマシーン)を使うことで対処しています。
 
 朝食、お弁当、ティーブレイク
 ============================
@@ -140,32 +166,8 @@ pyRubiks 以下のようにいくつかの部分にわかれているようで�
 
    HackerからみたDjangoについて発表を行った Orange 氏と宵 勇樹さん
 
-データサイエンス系のセッション紹介
-==================================
-宵です。PyCon Taiwan では学術系の方の発表が多く、さらにpython自体 `numpy <http://www.numpy.org/>`_ など数値計算系のライブラリが出てきているため、
-いくつかデータサイエンス系の発表もありました。ここでは軽く掲載しておきます。
-
-- **Getting Python To Learn From Only Parts Of Your Data**
-
-  - Dr. Ami Tavory
-  - 機械学習用ライブラリScikit-learnを使った、交差検定やブースティングの例を紹介していました。
-
-- **Scientific Data Analysis Pipelines - Push, Pull, React, Or Schedule?**
-
-  - Dr. Ami Tavory
-  - ETL(Extract/Transform/Load)的なデータの処理に関して、pythonのgeneratorを使って対処する方法を紹介していました。
-
-- **Big Data Analysis in Python**
-
-  - Jimmy Lai
-  - 資料: http://www.slideshare.net/jimmy_lai/big-data-analysis-in-python
-  - あるWeb投稿サイトのテキストを収集して、オススメのテキストを推薦するシステムの構築について紹介していました。テキストの格納にはmongoDB,Solrを使い、オススメするかどうかの判定には、単語の出現頻度に対してSVM(サポートベクターマシーン)を使うことで対処しています。
-
 くじ引き、クロージング、集合写真
 ================================
-- 日本語と英語が少し分かる台湾の方と知り合った！
-- クロージング英語無くて辛かった
-
 2日間の発表を終えてくじびき大会とクロージングです。
 去年に引き続き PyCon Taiwan では `pylottery <https://bitbucket.org/pycontw/pylottery>`_ というプログラムを使って抽選するのが伝統のようです(去年の PyCon JPでは手抜きして `random <http://docs.python.jp/2/library/random.html>`_ モジュールを使っていました)。
 

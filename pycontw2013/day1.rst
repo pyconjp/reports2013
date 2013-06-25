@@ -131,6 +131,7 @@ Sphinx発表
 Python memory management & Impact to memory-hungry application
 --------------------------------------------------------------
 :発表者: 郭彥廷(`Kilik <https://www.facebook.com/kilik.kuo>`_) 
+:資料: http://tw.pycon.org/2013/site_media/media/proposal_files/PyConTW13_kilik.pptx
 :動画: http://www.youtube.com/watch?v=iCzAmzGDTWk
 
 `Python memory management & Impact to memory-hungry application`_ という発表では、連続したメモリをOSで確保できない状況でも巨大な連続メモリ空間を使えるようにする、PyBankというPyObjectのメモリバンク実装について紹介していました。
@@ -193,7 +194,7 @@ LT1人目ということもあり、本人はかなり緊張していたとの�
 
    鈴木たかのりさんのLT発表
 
-:資料: http://www.slideshare.net/takanory/pyconapac-0525
+:資料: `Introduction of PyCon APAC <http://www.slideshare.net/takanory/pyconapac-0525>`_
 :動画: http://www.youtube.com/watch?v=8lSMCSd8oCo
 :動画(オフィシャル): http://www.youtube.com/watch?v=USPaHaFqM1Y
 
@@ -202,7 +203,7 @@ LT1人目ということもあり、本人はかなり緊張していたとの�
 LT2人目は、日本からPyConTWのスポンサーとして参加している `(株)Catchball21`_ さんの ``Introduced CatchBall21 company and promise with Yung-Yu Chen.`` です。
 「昨年のPyConJPに来ていた `Yung-Yu Chen`_ 氏と2013年のPyConTWに行くよ、と約束したのでやって来ました」とPyConTWに参加した経緯を紹介しつつ、昨年自社の標準開発言語をPythonにしたこと、どのようなことにPythonを使っているかなどを紹介し、最後に「Pythonistaを募集してます！」と締めくくりました。
 
-:資料: http://www.slideshare.net/shnmorimoto/pycon-taiwan-2013-lt-cb21-from-japan
+:資料: `你好!Catchball21 from Japan! <http://www.slideshare.net/shnmorimoto/pycon-taiwan-2013-lt-cb21-from-japan?from_search=29>`_
 :動画: http://www.youtube.com/watch?v=q0QOFdSHAiw
 
 
