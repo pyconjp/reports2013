@@ -23,6 +23,6 @@ PyCon Singaporeとは
 
 市内に到着次第、ホテル近くのセブンイレブンに走り、シンガポールのSIMカードを買いました。シンガポールにはSingTel、Starhub、M1という3つの通信キャリア会社があるのですが、どのキャリアもセブンイレブンでSIMカードが買えますし、残高のチャージもコンビニのカウンターでできます。私が買ったものはM1の12SGDのカード、ローカルの携帯番号に加えて3Gデータが使えます。
 
-チェックインしたホテルは市内のど真ん中、Orchard Road近くにある`Rendezvous Grand Hotel <http://www.rendezvoushotels.com/singapore/default-en.html>`_ 。この辺りは、ドリアンの形をしたEsplanadeや、元修道院で今はバーやレストランが入っているのCHIJMES、モダンアートがいっぱい並んでいるSingapore Art Museumなど、観光できるところも盛りだくさんです。1泊200SGDほどで、シンガポールでは結構いいホテルです。
+チェックインしたホテルは市内のど真ん中、Orchard Road近くにある `Rendezvous Grand Hotel <http://www.rendezvoushotels.com/singapore/default-en.html>`_ 。この辺りは、ドリアンの形をしたEsplanadeや、元修道院で今はバーやレストランが入っているのCHIJMES、モダンアートがいっぱい並んでいるSingapore Art Museumなど、観光できるところも盛りだくさんです。1泊200SGDほどで、シンガポールでは結構いいホテルです。
 
 あと数日以上滞在すると持っておいた方がいいのはEZ Linkという、シンガポールの交通系ICカード。Suicaのように、MRTやバスでも使えますし、コンビニなどでも使えます。
