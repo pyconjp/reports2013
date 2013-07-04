@@ -24,6 +24,8 @@ Contents:
 
 - `Dropbox by 寺田さん <https://www.dropbox.com/sh/kby7qv2hvr62v1k/AMiKz7hGJ8>`_
 - `Dropbox by 神谷 <https://www.dropbox.com/sh/o13rja2kg25sgkq/lBcKYL5zFI>`_
+- `Youtube Videos by PyCon SG <http://www.youtube.com/playlist?list=PLmpYVjSTR4oZfJAQMu9AvOyc016YVpyY2>`_
+- `Conference Schedule <https://pycon.sg/schedule/>`_
 
 
 Indices and tables
