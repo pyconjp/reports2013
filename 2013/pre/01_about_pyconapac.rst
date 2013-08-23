@@ -6,7 +6,7 @@
 ========
 
 .. image:: /_static/pycon-apac-logo-s.*
-   :target: http://apac-2013.pycon.jp/
+   :target: http://apac-2013.pycon.jp/ja/index.html
 
 広報の筒井です。毎年日本で開催されている「PyCon JP」ですが、今年はアジア太平洋地域を対象にした「Python Conference Asia-Pacific 2013 in Japan(略称: PyCon APAC 2013 in Japan)」として開催することになりました。
 
@@ -79,7 +79,7 @@ APAC(アジア太平洋地域)を対象にということで、英語セッシ�
    * - 運営
      - PyCon JP 運営チーム(座長 CMSコミュニケーションズ 寺田)
    * - Web サイト
-     - http://apac-2013.pycon.jp/
+     - http://apac-2013.pycon.jp/ja/index.html
    * - Twitter ハッシュタグ
      - `#pyconapac <https://twitter.com/#!/search?q=%23pyconapac>`_
 
