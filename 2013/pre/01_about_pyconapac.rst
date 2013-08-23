@@ -60,9 +60,9 @@ APAC(アジア太平洋地域)を対象にということで、英語セッシ�
        | 開発スプリント 9月16日(月・祝)
    * - 場所
      - | チュートリアル: `ホテルローズガーデン新宿 <http://www.hotel-rosegarden.jp/access/>`_
-       | カンファレンス: `工学院大学 新宿キャンパス <http://www.kogakuin.ac.jp/english/>`_
+       | カンファレンス: `工学院大学 新宿キャンパス <http://www.kogakuin.ac.jp/facilities/campus/shinjuku/access.html>`__
        | パーティ: `Tokyo Cafe 202 <http://www.dynac-japan.com/tokyocafe/>`_
-       | 開発スプリント: `工学院大学 新宿キャンパス <http://www.kogakuin.ac.jp/english/>`_
+       | 開発スプリント: `工学院大学 新宿キャンパス <http://www.kogakuin.ac.jp/facilities/campus/shinjuku/access.html>`__
    * - 参加費
      - | チュートリアル: 19,800円(カンファレンス参加費を含む)
        | カンファレンス: 6,000円(学生 3,000円)
