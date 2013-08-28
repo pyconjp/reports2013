@@ -28,7 +28,7 @@
 
 最初に紹介するのは14日の13:40-14:10に行われる「 `Python for Humans <http://apac-2013.pycon.jp/ja/program/sessions.html#session-14-1340-rooma0712-en1-ja>`_ 」です。
 
-HTTPライブラリとして定番になりつつある `Requests <http://docs.python-requests.org/en/latest/>`_ の作者 `Kenneth Reitz <http://kennethreitz.org/>`_ によるPyConUS 2013でも人気だった講演が、装いを新たにPyCon APAC 2013にやってきます！
+HTTPライブラリとして定番になりつつある `Requests <http://docs.python-requests.org/en/latest/>`_ の作者 `Kenneth Reitz <http://kennethreitz.org/>`_ によるPyConUS 2013でも人気だった講演が、装いを新たにPyCon APAC 2013 in Japanにやってきます！
 
 Requestsの経験を踏まえた人にわかりやすいAPI設計とはどのようなものなのでしょうか。
 
