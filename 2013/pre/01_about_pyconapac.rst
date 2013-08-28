@@ -6,7 +6,7 @@
 ========
 
 .. image:: /_static/pycon-apac-logo-s.*
-   :target: http://apac-2013.pycon.jp/
+   :target: http://apac-2013.pycon.jp/ja/index.html
 
 広報の筒井です。毎年日本で開催されている「PyCon JP」ですが、今年はアジア太平洋地域を対象にした「Python Conference Asia-Pacific 2013 in Japan(略称: PyCon APAC 2013 in Japan)」として開催することになりました。
 
@@ -60,9 +60,9 @@ APAC(アジア太平洋地域)を対象にということで、英語セッシ�
        | 開発スプリント 9月16日(月・祝)
    * - 場所
      - | チュートリアル: `ホテルローズガーデン新宿 <http://www.hotel-rosegarden.jp/access/>`_
-       | カンファレンス: `工学院大学 新宿キャンパス <http://www.kogakuin.ac.jp/english/>`_
+       | カンファレンス: `工学院大学 新宿キャンパス <http://www.kogakuin.ac.jp/facilities/campus/shinjuku/access.html>`__
        | パーティ: `Tokyo Cafe 202 <http://www.dynac-japan.com/tokyocafe/>`_
-       | 開発スプリント: `工学院大学 新宿キャンパス <http://www.kogakuin.ac.jp/english/>`_
+       | 開発スプリント: `工学院大学 新宿キャンパス <http://www.kogakuin.ac.jp/facilities/campus/shinjuku/access.html>`__
    * - 参加費
      - | チュートリアル: 19,800円(カンファレンス参加費を含む)
        | カンファレンス: 6,000円(学生 3,000円)
@@ -79,7 +79,7 @@ APAC(アジア太平洋地域)を対象にということで、英語セッシ�
    * - 運営
      - PyCon JP 運営チーム(座長 CMSコミュニケーションズ 寺田)
    * - Web サイト
-     - http://apac-2013.pycon.jp/
+     - http://apac-2013.pycon.jp/ja/index.html
    * - Twitter ハッシュタグ
      - `#pyconapac <https://twitter.com/#!/search?q=%23pyconapac>`_
 
