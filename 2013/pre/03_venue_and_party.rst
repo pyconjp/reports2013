@@ -29,17 +29,17 @@
 
 パーティ運営担当者で会場を下見したのですが、360度東京の夜景が見渡せてとても開放感がある素敵な会場です。当日は、有志によるDJパフォーマンスや、野良ハンズオンなどを企画していますので今から楽しみです！
 
-.. figure:: /_static/party1.jpg
+.. figure:: /_static/party1.*
    :width: 400
 
    会場からの夜景
 
-.. figure:: /_static/party2.jpg
+.. figure:: /_static/party2.*
    :width: 400
 
    日中はこんな感じで見えるそうです(スカイツリーが中央に見えています)
 
-.. figure:: /_static/party3.jpg
+.. figure:: /_static/party3.*
    :width: 400
 
    パーティはこんな感じになる予定です
