@@ -26,7 +26,7 @@ Contents:
 
    01_about_pyconapac
    02_program
-   03_venue_and_party
+   03_party
    authors
 
 
