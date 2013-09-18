@@ -23,6 +23,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   01_keynote_and_program
+   02_outside_program
+   03_stagehand
+   04_general_overview
    authors
 
 
