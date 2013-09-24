@@ -42,7 +42,7 @@ PyCon APAC 2013 in Japan スタッフ。Sweet Remedy Inc.で投資銀行向け�
 
 :Twitter: `@ryokamiya <https://twitter.com/ryokamiya>`_
 :サイト: `http://www.sweetremedy.org <http://www.sweetremedy.org>`_
-:プロフィール: `LinkedInページ <http://www.linkedin.com/pub/ryoichiro-kamiya/4/9ba/959>`_
+:プロフィール: `LinkedInページ <http://www.linkedin.com/in/ryokamiya>`_
 
 
 保坂 翔馬(ホサカ ショウマ)
