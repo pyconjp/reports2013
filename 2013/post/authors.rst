@@ -53,9 +53,10 @@ PyCon APAC 2013 in Japan スタッフ。Sweet Remedy Inc.で投資銀行向け�
 
 どこにでもいる普通のプログラマ。
 主にPython界隈で活動中で、勉強会に出没したり、PyCon JP運営チームに参加するなど。
-`PyCon APAC 2013 <http://apac-2013.pycon.jp/>`__ 副座長
 
-`Python mini Hack-a-thon <http://connpass.com/series/14/>`_ の主催の一人
+- `パーフェクト Python <http://gihyo.jp/book/2013/978-4-7741-5539-5>`__ の著者の一人
+- `PyCon APAC 2013 <http://apac-2013.pycon.jp/>`__ 副座長
+- `Python mini Hack-a-thon <http://connpass.com/series/14/>`__ の主催の一人
 
 趣味は自転車・バイク・ボルダリングなど
 
