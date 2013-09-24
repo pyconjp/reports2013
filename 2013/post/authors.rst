@@ -43,3 +43,21 @@ PyCon APAC 2013 in Japan スタッフ。Sweet Remedy Inc.で投資銀行向け�
 :Twitter: `@ryokamiya <https://twitter.com/ryokamiya>`_
 :サイト: `http://www.sweetremedy.org <http://www.sweetremedy.org>`_
 :プロフィール: `LinkedInページ <http://www.linkedin.com/pub/ryoichiro-kamiya/4/9ba/959>`_
+
+
+保坂 翔馬(ホサカ ショウマ)
+==========================
+
+.. image:: https://si0.twimg.com/profile_images/3594368487/a7396a9bdb5cde5771b4b591ef1ceb77.jpeg
+   :width: 200
+
+どこにでもいる普通のプログラマ。
+主にPython界隈で活動中で、勉強会に出没したり、PyCon JP運営チームに参加するなど。
+`PyCon APAC 2013 <http://apac-2013.pycon.jp/>`__ 副座長
+
+`Python mini Hack-a-thon <http://connpass.com/series/14/>`_ の主催の一人
+
+趣味は自転車・バイク・ボルダリングなど
+
+- Twitter: `@shomah4a <http://twitter.com/shomah4a>`_
+- ブログ: `プログラマのネタ帳 二冊目 <http://blog.shomah4a.net/index.html>`_
