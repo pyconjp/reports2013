@@ -19,6 +19,14 @@ Contents:
     - `PyCon JP 2012 レポート ～第3回 裏方の人々 <http://codezine.jp/article/detail/6808>`_
     - `PyCon JP 2012 レポート ～第4回 総括 <http://codezine.jp/article/detail/6834>`_
 
+- PyCon APAC 2013 写真
+
+  - `PyCon APAC Tutorial, Prepare, WelcomeParty <http://www.flickr.com/photos/pyconjp/sets/72157635899649775/>`_
+  - `PyCon APAC 2013 day1 <http://www.flickr.com/photos/pyconjp/sets/72157635796851986/>`_
+  - `PyCon APAC 2013 day2 <http://www.flickr.com/photos/pyconjp/sets/72157635797238403/>`_
+  - `PyCon APAC 2013 sprint <http://www.flickr.com/photos/pyconjp/sets/72157635897221385/>`_
+
+-----
 
 .. toctree::
    :maxdepth: 2
