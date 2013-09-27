@@ -42,7 +42,7 @@ PyCon APAC 2013 in Japan スタッフ。Sweet Remedy Inc.で投資銀行向け�
 
 :Twitter: `@ryokamiya <https://twitter.com/ryokamiya>`_
 :サイト: `http://www.sweetremedy.org <http://www.sweetremedy.org>`_
-:プロフィール: `LinkedInページ <http://www.linkedin.com/pub/ryoichiro-kamiya/4/9ba/959>`_
+:プロフィール: `LinkedInページ <http://www.linkedin.com/in/ryokamiya>`_
 
 
 保坂 翔馬(ホサカ ショウマ)
@@ -53,11 +53,51 @@ PyCon APAC 2013 in Japan スタッフ。Sweet Remedy Inc.で投資銀行向け�
 
 どこにでもいる普通のプログラマ。
 主にPython界隈で活動中で、勉強会に出没したり、PyCon JP運営チームに参加するなど。
-`PyCon APAC 2013 <http://apac-2013.pycon.jp/>`__ 副座長
 
-`Python mini Hack-a-thon <http://connpass.com/series/14/>`_ の主催の一人
+- `パーフェクト Python <http://gihyo.jp/book/2013/978-4-7741-5539-5>`__ の著者の一人
+- `PyCon APAC 2013 <http://apac-2013.pycon.jp/>`__ 副座長
+- `Python mini Hack-a-thon <http://connpass.com/series/14/>`__ の主催の一人
 
 趣味は自転車・バイク・ボルダリングなど
 
 - Twitter: `@shomah4a <http://twitter.com/shomah4a>`_
 - ブログ: `プログラマのネタ帳 二冊目 <http://blog.shomah4a.net/index.html>`_
+
+鈴木 たかのり(スズキ タカノリ)
+==============================
+.. image:: /_static/kurokuri.jpg
+
+PyCon JP 2014 座長。 `BeProud <http://www.beproud.jp/>`_ 所属。
+
+部内のサイトを作るためにZope/Ploneと出会い、その後必要にかられてPythonを使い始める。最近miniじゃなくなりつつある `Python mini Hack-a-thon <http://connpass.com/series/14/>`_ の主催者の一人でもある。
+`Pythonボルダリング部(#kabepy) <http://connpass.com/series/64/>`_ の言い出しっぺで部長。
+
+主な趣味は吹奏楽とレゴとペンシルパズル。最近の目標は2012年9月にオープンしたマレーシアのレゴランドに行くこと。写真はうちのフェレットくろちゃんとくりちゃんです。
+
+- Twitter: `@takanory <http://twitter.com/takanory>`_
+- Facebook: `takanory.net <http://www.facebook.com/takanory.net>`_
+- サイト: `takanory.net <http://takanory.net/>`_
+
+竹内 陽児(タケウチ ヨウジ)
+==========================
+
+畠 弥峰(ハタ ヒロタカ)
+======================
+
+津田 麻美子(ツダ マミコ)
+========================
+
+清田 史和(キヨタ フミカズ)
+==========================
+
+川田 裕貴(カワタ ヒロタカ)
+==========================
+
+木下 文史(キノシタ フミチカ)
+============================
+
+若林 伴典(ワカバヤシ トモノリ)
+==============================
+
+中村 智洋(ナカムラ トモヒロ)
+============================
