@@ -92,6 +92,13 @@ PyCon JP 2014 座長。 `BeProud <http://www.beproud.jp/>`_ 所属。
 
 川田 裕貴(カワタ ヒロタカ)
 ==========================
+2013 年より PyCon JP の運営チームに参加する。
+
+Python が好きだけれど、普段は Python が使えないもっと低レイヤーな世界にいる人、しかし Web 系な物も書いたりする。
+普通の大学生でもある。2011年度 IPA 未踏IT人材発掘・育成事業 スーパークリエイター。
+
+- Twitter: `@hktechno <http://twitter.com/hktechno>`_
+- Blog: `/var/log/hktechno <http://blog.hktechno.net/>`_
 
 木下 文史(キノシタ フミチカ)
 ============================
