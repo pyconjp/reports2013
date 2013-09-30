@@ -75,8 +75,9 @@ PyCon JP 2014 座長。 `BeProud <http://www.beproud.jp/>`_ 所属。
 主な趣味は吹奏楽とレゴとペンシルパズル。最近の目標は2012年9月にオープンしたマレーシアのレゴランドに行くこと。写真はうちのフェレットくろちゃんとくりちゃんです。
 
 - Twitter: `@takanory <http://twitter.com/takanory>`_
-- Facebook: `takanory.net <http://www.facebook.com/takanory.net>`_
-- サイト: `takanory.net <http://takanory.net/>`_
+- Facebook: `takanory.net <http://www.facebook.com/takanory.net>`__
+- サイト: `takanory.net <http://takanory.net/>`__
+  
 
 竹内 陽児(タケウチ ヨウジ)
 ==========================
@@ -91,6 +92,18 @@ PyCon JP 2014 座長。 `BeProud <http://www.beproud.jp/>`_ 所属。
 
 畠 弥峰(ハタ ヒロタカ)
 ======================
+.. image:: /_static/flagboy.png
+
+`BeProud <http://www.beproud.jp/>`_ 所属。
+
+過去に100万人規模のソーシャルゲームの開発リーダをしたりもしてたけど、今はどこにでもいる普通のプログラマ。
+ここ何年かはDjangoを主に扱っている。
+「Pythonプロフェッショナルプログラミング (2012年)」の13章を執筆。
+
+PyCon JP の活動は当初お手伝い程度のつもりだったのに、どんどん責任範囲が増えていて若干後悔気味だったり。
+
+- Twitter: `@flag_boy <https://twitter.com/flag_boy>`_
+- ブログ: `ま、そんな日もあるさ <http://d.hatena.ne.jp/flag-boy/>`_
 
 津田 麻美子(ツダ マミコ)
 ========================
@@ -101,8 +114,23 @@ PyCon JP 2014 座長。 `BeProud <http://www.beproud.jp/>`_ 所属。
 川田 裕貴(カワタ ヒロタカ)
 ==========================
 
+2013 年より PyCon JP の運営チームに参加する。
+
+Python が好きだけれど、普段は Python が使えないもっと低レイヤーな世界にいる人、しかし Web 系な物も書いたりする。
+普通の大学生でもある。2011年度 IPA 未踏IT人材発掘・育成事業 スーパークリエイター。
+
+- Twitter: `@hktechno <http://twitter.com/hktechno>`_
+- Blog: `/var/log/hktechno <http://blog.hktechno.net/>`_
+
 木下 文史(キノシタ フミチカ)
 ============================
+.. figure:: /_static/kinofumi.*
+
+水戸にあるデザイン事務所にて日々色々作っています。
+Pythonとの出会いは仕事でPloneを使うようになってから、かれこれ6年ほど。
+そこそこインフラ構築もコードも書けてデザインもできる人になるべく日々鍛練中。
+
+Twitter: `@kinofumi <http://twitter.com/kinofumi>`_
 
 若林 伴典(ワカバヤシ トモノリ)
 ==============================
