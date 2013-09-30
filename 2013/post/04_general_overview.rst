@@ -2,6 +2,10 @@
  第四回 総括
 =============
 
+.. image:: /_static/pycon-apac-logo-s.png
+   :target: http://apac-2013.pycon.jp/
+
+
 運営総括
 ========
 

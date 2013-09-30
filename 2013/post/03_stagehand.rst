@@ -2,6 +2,10 @@
  第三回 裏方の人々
 ===================
 
+.. image:: /_static/pycon-apac-logo-s.png
+   :target: http://apac-2013.pycon.jp/
+
+
 デザインについて
 ================
 
@@ -109,7 +113,7 @@ Pythonのロゴに使用されている黄色と青色を組み合わせまと�
 .. figure:: /_static/lunch02.*
     :width: 500
     :alt: ランチの様子2
-    
+
 .. figure:: /_static/lunch03.*
     :width: 500
     :alt: ランチの様子3
@@ -133,7 +137,7 @@ PyCon JPには、昨年初めて一般参加者として参加しました。次
 開催前は、広報としてこんなことをやってきました。
 
 * 他の勉強会での宣伝LT
-* `サイト <http://apac-2013.pycon.jp/ja/index.html>`_ での告知
+* `サイト <http://apac-2013.pycon.jp/ja/index.html>`__ での告知
 * `PyCon JP Blog <http://pyconjp.blogspot.jp/>`_ での告知
 * Twitterアカウント `@PyConJ <https://twitter.com/PyConJ>`_ での告知
 * 技術系メーリングリスト・メディアへの告知文の作成
@@ -175,8 +179,8 @@ LTでの告知は、こんなところでやってきました。
 
 * `BIGLOBE Tech Talk <http://connpass.com/event/2486/>`_
 * `『JUnit実践入門』写経・実践会 in 横浜 <http://connpass.com/event/2248/>`_
-* `Python Developers Festa <https://github.com/pyspa/pyfes>`_ 
-* `LLまつり <http://ll.jus.or.jp/2013/>`_ 
+* `Python Developers Festa <https://github.com/pyspa/pyfes>`_
+* `LLまつり <http://ll.jus.or.jp/2013/>`_
 
 `LLまつり <http://ll.jus.or.jp/2013/>`_ のLTは本番の1週間ほど前にスタッフの前でリハーサルをしたのですが、多くのダメ出し…もとい意見を受けて大幅に内容を見直しました。でも結果的には前よりいいLTになったと思います。
 
@@ -250,7 +254,7 @@ LTでの告知は、こんなところでやってきました。
 
 これで今年のPyCon APAC 2013 in Japanは終了なのですが、スタッフとしての仕事はもう少し続きます。
 
-参加者によるブログをまとめて `サイト <http://apac-2013.pycon.jp/ja/reports/blogs.html>`_ に掲載したり、運営レポート(この連載のこと)の構成案・スケジュールの作成・執筆依頼をやっていました(そして、これを書いている現在、四苦八苦しています)。
+参加者によるブログをまとめて `サイト <http://apac-2013.pycon.jp/ja/reports/blogs.html>`__ に掲載したり、運営レポート(この連載のこと)の構成案・スケジュールの作成・執筆依頼をやっていました(そして、これを書いている現在、四苦八苦しています)。
 
 全体を振り返ってみて
 --------------------
