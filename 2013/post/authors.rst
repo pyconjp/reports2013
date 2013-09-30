@@ -139,3 +139,15 @@ Twitter: `@kinofumi <http://twitter.com/kinofumi>`_
 
 中村 智洋(ナカムラ トモヒロ)
 ============================
+
+.. image:: /_static/tomohiro.nakamura.jpg
+
+昨年は当日スタッフで参加したので、今年はスタッフとしてランチ担当をしました。
+
+ビールが好きです、ワインも赤は好きです、白は挑戦中。
+日本酒も挑戦中。Twitter で #ビールクズ で時々流しているかもしれません。
+
+- About.me: http://about.me/tomohiro.nakamura
+
+
+
