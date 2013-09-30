@@ -113,6 +113,8 @@ PyCon JP の活動は当初お手伝い程度のつもりだったのに、ど�
 
 川田 裕貴(カワタ ヒロタカ)
 ==========================
+.. image:: https://si0.twimg.com/profile_images/2290888899/x0nadofx1top630wk7sk.jpeg
+    :width: 200
 
 2013 年より PyCon JP の運営チームに参加する。
 
