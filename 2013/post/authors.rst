@@ -77,7 +77,7 @@ PyCon JP 2014 座長。 `BeProud <http://www.beproud.jp/>`_ 所属。
 - Twitter: `@takanory <http://twitter.com/takanory>`_
 - Facebook: `takanory.net <http://www.facebook.com/takanory.net>`__
 - サイト: `takanory.net <http://takanory.net/>`__
-  
+
 
 竹内 陽児(タケウチ ヨウジ)
 ==========================
@@ -107,6 +107,16 @@ PyCon JP の活動は当初お手伝い程度のつもりだったのに、ど�
 
 津田 麻美子(ツダ マミコ)
 ========================
+
+.. figure:: /_static/tsuda.jpg
+
+本業はPerlの会社モバイルファクトリーの人事。
+
+趣味でプログラミングをはじめ、気がついたら非エンジニアとしてPyConのスタッフになっていた。
+
+メイン言語はJava、Ruby。
+
+Twitter: `@crazygirl_lover <http://twitter.com/crazygirl_lover>`_
 
 清田 史和(キヨタ フミカズ)
 ==========================
