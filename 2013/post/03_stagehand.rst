@@ -5,6 +5,14 @@
 .. image:: /_static/pycon-apac-logo-s.png
    :target: http://apac-2013.pycon.jp/
 
+はじめに
+========
+
+広報の筒井です。
+
+第三回は、PyCon APAC 2013 in Japanを裏で支えたスタッフたちを紹介します。
+
+普段表には出ない人々ですが、裏ではこんなことをしていました。
 
 デザインについて
 ================
