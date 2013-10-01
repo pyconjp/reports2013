@@ -109,13 +109,32 @@ Day2(9月15日)のクロージングで発表しましたが、座長である�
 
 
 
-PyCon JP 2014 の話
-==================
+PyCon JP 2014 に向けて
+======================
+鈴木たかのりです。寺田さんからバトンを受け取って PyCon JP 2014 の座長として活動を開始します。
 
-.. warning::
+.. note::
 
-    担当：たかのりさん
+   10月8日のキックオフ・ミーティングからなにか書けることがあれば、書く
 
-    * 来年の抱負
-    * 来年に向けてスタッフ・会場・スポンサー募集のお知らせ
+   写真、N人集まった等々
 
+PyCon APAC 2013 のクロージングでも話をさせてもらいましたが、PyCon APAC 2014 は台湾で開催されますが、日本でも **PyCon JP 2014** を開催します。会場、会期、規模等は現時点ではすべて未定ですが、一緒に **今までで最高の PyCon JP** を作っていく仲間を募集しています。コアスタッフに興味のある方は `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_ メーリングリストに参加して「スタッフ希望」の旨をメールでお知らせください。
+
+以下はクロージングのビデオ(59:10くらいから)と、そこで使用したスライドです。
+
+.. raw:: html
+
+   <iframe width="420" height="315" src="http://www.youtube.com/embed/aRcTWeKJRTM" frameborder="0" allowfullscreen></iframe>
+
+
+.. raw:: html
+
+   <iframe src="http://www.slideshare.net/slideshow/embed_code/26221260?startSlide=36" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/takanory/pyconapac2013-closing" title="Pycon APAC 2013 closing" target="_blank">Pycon APAC 2013 closing</a> </strong> from <strong><a href="http://www.slideshare.net/takanory" target="_blank">Takanori Suzuki</a></strong> </div>
+
+それでは、来年の PyCon JP 2014 でお会いしましょう。
+
+.. image:: /_static/pyconapac2013-staff-photo.jpg
+   :width: 400
+   :alt: PyCon APAC 2013 in Japan スタッフ集合写真
+   
