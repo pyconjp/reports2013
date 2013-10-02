@@ -143,6 +143,10 @@ PyCon運営からの次の要望がありました。
 
 `WLX302 PyCon APAC 2013への機材提供 <http://projectphone.typepad.jp/blog/2013/09/wlx302-pycon-ap-88cf.html>`_
 
+.. figure:: /_static/yamaha_router.*
+    :width: 500
+    :alt: 実際に使われた機材
+
 やってみた感想
 --------------
 PyConスタッフだけでなく大学関係者やヤマハ関係者等多くの方のお力を借りて会場担当としての仕事が出来ました。この場を借りて、改めて御礼申し上げます。
