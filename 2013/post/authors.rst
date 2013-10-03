@@ -48,7 +48,7 @@ PyCon APAC 2013 in Japan スタッフ。Sweet Remedy Inc.で投資銀行向け�
 保坂 翔馬(ホサカ ショウマ)
 ==========================
 
-.. image:: https://si0.twimg.com/profile_images/3594368487/a7396a9bdb5cde5771b4b591ef1ceb77.jpeg
+.. image:: /_static/shoma.jpg
    :width: 200
 
 どこにでもいる普通のプログラマ。
@@ -123,7 +123,7 @@ Twitter: `@crazygirl_lover <http://twitter.com/crazygirl_lover>`_
 
 川田 裕貴(カワタ ヒロタカ)
 ==========================
-.. image:: https://si0.twimg.com/profile_images/2290888899/x0nadofx1top630wk7sk.jpeg
+.. image:: /_static/kawata.jpg
     :width: 200
 
 2013 年より PyCon JP の運営チームに参加する。

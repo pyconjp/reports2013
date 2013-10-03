@@ -79,13 +79,13 @@ PyCon Singaporeの支援
 
 一日目(9/14)の基調講演者はPythonのコアデベロッパーでPython 3.2と3.3のリリースマネージャーのGeorg Brandl氏です。またBrandl氏はPythonのドキュメントで使用されているSphinxの作者でもあります。
 
-.. figure:: http://apac-2013.pycon.jp/_images/georg.jpg
+.. figure:: /_static/georg.jpg
 
    Georg Brandl 氏
 
 二日目(9/15)の基調講演者はDropboxのRian Hunter氏です。Hunter氏はDropboxの三番目のエンジニアで、当初はLinux版のデスクトップクライアントを開発されていました。
 
-.. figure:: http://apac-2013.pycon.jp/_images/rian.jpg
+cd _.. figure:: /_static/rian.jpg
 
    Rian Hunter 氏
 
@@ -120,14 +120,14 @@ PyCon Singaporeの支援
 
 講師のお二人にも感想を伺いました。
 
-.. figure:: http://apac-2013.pycon.jp/_images/ransuiiso.jpeg
+.. figure:: /_static/ransuiiso.jpeg
 
    磯さん
 
     １日を使ったチュートリアルは、PyConJPが主催するイベントとしては初の試みであり、まだまだ至らない点も多かったと思いますが、概ねうまくできたのではないかと思っています。チュートリアルAでは解くべき問題と、それに適したデータ構造というテーマを中心にお話しました。データ構造がプログラムの見通しに与える影響について、実際に手を動かして体験すること。そして、特定のプログラミング言語に特化しない、普遍的な考え方の重要性がお伝えできたのではないかと思っています。参加者の方々のプログラミングスキルの幅が広く、テーマの設定、お話する内容の吟味はなかなか難しかったのですが、初心者〜中級者の中間点くらいに設定したのはよかったと思われます。チュートリアルを支えてくださったスタッフの皆さん、そして参加者の皆様、ありがとうございました。
 
 
-.. figure:: http://apac-2013.pycon.jp/_images/tokibito.jpeg
+.. figure:: /_static/tokibito.jpeg
 
    岡野さん
 
