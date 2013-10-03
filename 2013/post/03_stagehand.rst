@@ -52,15 +52,27 @@ Pythonのロゴに使用されている黄色と青色を組み合わせまと�
 
 .. figure:: /_static/strap.*
     :width: 500
-    :alt: ストラップ
+    :alt: ネックストラップ
+
+    ネックストラップ
 
 .. figure:: /_static/canbadge.*
     :width: 500
     :alt: 缶バッジ
 
+    缶バッジ
+
 .. figure:: /_static/sticker.*
     :width: 500
     :alt: ステッカー
+
+    ステッカー
+
+.. figure:: /_static/banner.jpg
+   :width: 500
+   :alt: スポンサーバナー
+
+   スポンサーバナー
 
 今回は、私個人の作業時間がなく冊子のデザインを
 去年のPyCon JP 2012の冊子をベースにデザイン会社にお願いすることになりました。
