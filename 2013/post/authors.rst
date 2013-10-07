@@ -153,6 +153,17 @@ Twitter: `@kinofumi <http://twitter.com/kinofumi>`_
 
 若林 伴典(ワカバヤシ トモノリ)
 ==============================
+.. image:: /_static/wakaba.*
+
+セールスじゃないSEさん。HPC系の会社から某機関に派遣中。
+
+プログラマではないのでPythonを書く機会はありませんが、
+
+Pythonで作られたOSSツールによく出くわすのでもう少し出来るように勉強中。
+
+普段は自宅ラック勉強会などにインフラ系勉強会に出没。
+
+- Facebook: `tomonori.wakabayashi.81 <https://www.facebook.com/tomonori.wakabayashi.81>`_
 
 中村 智洋(ナカムラ トモヒロ)
 ============================
