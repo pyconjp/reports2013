@@ -123,7 +123,7 @@ Twitter: `@crazygirl_lover <http://twitter.com/crazygirl_lover>`_
 .. image:: /_static/kiyota_fumikazu_t.*
 
 `SnapDish <http://snapdish.co/>`_ を作ってます。
-`KIYOTA Coffee （自家焙煎コーヒー豆） <http://kiyotacoffee.com/>`_ でコーヒー販売してます。
+`KIYOTA Coffee （自家焙煎コーヒー豆） <http://www.kiyotacoffee.com/>`_ でコーヒー販売してます。
 
 現在、スタートアップ企業をやっています。SnapDishというサービスを作っています。料理の世界をもっと楽しくするために、日夜、開発を楽しくやっています。
 
