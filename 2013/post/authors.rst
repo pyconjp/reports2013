@@ -158,11 +158,9 @@ Twitter: `@kinofumi <http://twitter.com/kinofumi>`_
 
 セールスじゃないSEさん。HPC系の会社から某機関に派遣中。
 
-プログラマではないのでPythonを書く機会はありませんが、
+プログラマではないのでPythonを書く機会はありませんが、Pythonで作られたOSSツールによく出くわすのでもう少し出来るように勉強中。
 
-Pythonで作られたOSSツールによく出くわすのでもう少し出来るように勉強中。
-
-普段は自宅ラック勉強会などにインフラ系勉強会に出没。
+普段は自宅ラック勉強会などインフラ系勉強会に出没。
 
 - Facebook: `tomonori.wakabayashi.81 <https://www.facebook.com/tomonori.wakabayashi.81>`_
 
