@@ -120,6 +120,13 @@ Twitter: `@crazygirl_lover <http://twitter.com/crazygirl_lover>`_
 
 清田 史和(キヨタ フミカズ)
 ==========================
+.. image:: /_static/kiyota_fumikazu_t.*
+
+`SnapDish <http://snapdish.co/>`_ を作ってます。コーヒー屋を経営しています。
+
+現在、スタートアップ企業をやっています。SnapDishというサービスを作っています。料理の世界をもっと楽しくするために、日夜、開発を楽しくやっています。
+
+- Twitter: `@kiyotaman <http://twitter.com/kiyotaman>`_
 
 川田 裕貴(カワタ ヒロタカ)
 ==========================
