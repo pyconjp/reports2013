@@ -113,13 +113,16 @@ PyCon JP 2014 に向けて
 ======================
 鈴木たかのりです。寺田さんからバトンを受け取って PyCon JP 2014 の座長として活動を開始します。
 
-.. note::
+PyCon APAC 2013 のクロージングでも話をさせてもらいましたが、PyCon APAC 2014 は台湾で開催されますが、日本でも **PyCon JP 2014** を開催します。会場、会期、規模等は現時点ではすべて未定ですが、一緒に **今までで最高の PyCon JP** を作っていく仲間を募集しています。スタッフに興味のある方は `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_ メーリングリストに参加して「スタッフ希望」の旨をメールでお知らせください。「PyCon JP でこんなことやってみたいなー」というアイデアのある方、Python コミュニティの盛り上げるのを手伝ってみたい方などなど、お待ちしています。
 
-   10月8日のキックオフ・ミーティングからなにか書けることがあれば、書く
+また、10月8日にキックオフミーティングを行いました。キックオフミーティングの場では私の所信表明と、スタッフのチーム構成についての議論などを行いました。
+ミーティングの議事録は `20131008 PyCon JP 2014 キックオフ <https://docs.google.com/document/d/16qs5TIkKYTfk69UTqoHClQv8irwIbqqcaaJUA14chxs/edit#heading=h.787vlo3dbfsn>`_ で参照できます。この記事が掲載されているころは、チームリーダーの募集を行ったりなど、チームを作り始めているところだと思います。
 
-   写真、N人集まった等々
+.. figure:: /_static/pyconjp2014kickoff.jpg
+   :width: 400
+   :alt: PyCon JP 2014 キックオフミーティング
 
-PyCon APAC 2013 のクロージングでも話をさせてもらいましたが、PyCon APAC 2014 は台湾で開催されますが、日本でも **PyCon JP 2014** を開催します。会場、会期、規模等は現時点ではすべて未定ですが、一緒に **今までで最高の PyCon JP** を作っていく仲間を募集しています。コアスタッフに興味のある方は `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_ メーリングリストに参加して「スタッフ希望」の旨をメールでお知らせください。
+   PyCon JP 2014 キックオフミーティング
 
 以下はクロージングのビデオ(59:10くらいから)と、そこで使用したスライドです。
 
@@ -134,7 +137,8 @@ PyCon APAC 2013 のクロージングでも話をさせてもらいましたが�
 
 それでは、来年の PyCon JP 2014 でお会いしましょう。
 
-.. image:: /_static/pyconapac2013-staff-photo.jpg
+.. figure:: /_static/pyconapac2013-staff-photo.jpg
    :width: 400
    :alt: PyCon APAC 2013 in Japan スタッフ集合写真
 
+   PyCon APAC 2013 in Japan スタッフ集合写真
