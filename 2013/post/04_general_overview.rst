@@ -128,7 +128,7 @@ PyCon APAC 2013 のクロージングでも話をさせてもらいましたが�
 
 .. raw:: html
 
-   <iframe width="420" height="315" src="http://www.youtube.com/embed/aRcTWeKJRTM" frameborder="0" allowfullscreen></iframe>
+   <iframe width="420" height="315" src="http://www.youtube.com/embed/aRcTWeKJRTM?start=3550" frameborder="0" allowfullscreen></iframe>
 
 
 .. raw:: html
