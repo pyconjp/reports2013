@@ -113,10 +113,11 @@ PyCon JP 2014 に向けて
 ======================
 鈴木たかのりです。寺田さんからバトンを受け取って PyCon JP 2014 の座長として活動を開始します。
 
-PyCon APAC 2013 のクロージングでも話をさせてもらいましたが、PyCon APAC 2014 は台湾で開催されますが、日本でも **PyCon JP 2014** を開催します。会場、会期、規模等は現時点ではすべて未定ですが、一緒に **今までで最高の PyCon JP** を作っていく仲間を募集しています。スタッフに興味のある方は `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_ メーリングリストに参加して「スタッフ希望」の旨をメールでお知らせください。「PyCon JP でこんなことやってみたいなー」というアイデアのある方、Python コミュニティの盛り上げるのを手伝ってみたい方などなど、お待ちしています。
+PyCon APAC 2013 のクロージングでも話をさせてもらいましたが、PyCon APAC 2014 は台湾で開催されますが、日本でも **PyCon JP 2014** を開催します。会場、会期、規模等は現時点ではすべて未定ですが、一緒に **今までで最高の PyCon JP** を作っていく仲間を募集しています。スタッフに興味のある方は `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_ メーリングリストに参加して「スタッフ希望」の旨をメールでお知らせください。「PyCon JP でこんなことやってみたいなー」というアイデアのある方、Python コミュニティを一緒に盛り上げるたい方などなど、お待ちしています。
 
-また、10月8日にキックオフミーティングを行いました。キックオフミーティングの場では私の所信表明と、スタッフのチーム構成についての議論などを行いました。
-ミーティングの議事録は `20131008 PyCon JP 2014 キックオフ <https://docs.google.com/document/d/16qs5TIkKYTfk69UTqoHClQv8irwIbqqcaaJUA14chxs/edit#heading=h.787vlo3dbfsn>`_ で参照できます。この記事が掲載されているころは、チームリーダーの募集を行ったりなど、チームを作り始めているところだと思います。
+また、10月8日にキックオフミーティングを行いました。キックオフミーティングの場では参加者の自己紹介、私の所信表明と、スタッフのチーム構成についての議論を行いました。特にチーム構成については予算の承認をどのようにするのか、ミーティングの頻度や範囲、コミュニケーションの手段などについて議論しました。このあたりについては継続して議論や運用しながら修正が必要になると思います。
+
+詳しくはミーティングの議事録が `20131008 PyCon JP 2014 キックオフ <https://docs.google.com/document/d/16qs5TIkKYTfk69UTqoHClQv8irwIbqqcaaJUA14chxs/edit#heading=h.787vlo3dbfsn>`_ で公開されているので、そちらを参照してください。この記事が掲載されているころは、チームリーダーの募集を行ったりなど、チーム作りに着手している頃だと思います。
 
 .. figure:: /_static/pyconjp2014kickoff.jpg
    :width: 400
@@ -124,7 +125,7 @@ PyCon APAC 2013 のクロージングでも話をさせてもらいましたが�
 
    PyCon JP 2014 キックオフミーティング
 
-以下はクロージングのビデオ(59:10くらいから)と、そこで使用したスライドです。
+以下は PyCon APAC 2013 in Japan のクロージングのビデオ(59:10くらいから)と、そこで使用したスライドです。
 
 .. raw:: html
 
@@ -135,7 +136,7 @@ PyCon APAC 2013 のクロージングでも話をさせてもらいましたが�
 
    <iframe src="http://www.slideshare.net/slideshow/embed_code/26221260?startSlide=36" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/takanory/pyconapac2013-closing" title="Pycon APAC 2013 closing" target="_blank">Pycon APAC 2013 closing</a> </strong> from <strong><a href="http://www.slideshare.net/takanory" target="_blank">Takanori Suzuki</a></strong> </div>
 
-それでは、来年の PyCon JP 2014 でお会いしましょう。
+それでは、一緒に PyCon JP 2014 を作ってくれるみなさんからの連絡をお待ちしています。そして、 PyCon JP 2014 でお会いしましょう。
 
 .. figure:: /_static/pyconapac2013-staff-photo.jpg
    :width: 400
